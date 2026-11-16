@@ -135,10 +135,17 @@ docker images
 - Confundir `login` con “instalar Docker”: el Engine ya está; login es solo registry.  
 - Montar un registry privado “para probar” el primer día → fuera de alcance; usa Hub o el de tu proveedor.
 
+## Siguiente
+
+[Docker rootless (visión)](rootless-vision.md)
+
 ## Relacionados
 
 - Anterior: [seguridad-basica](seguridad-basica.md)  
 - Siguiente: [rootless-vision](rootless-vision.md)  
 - Imágenes: [imagenes](../02-imagenes-dockerfile/imagenes.md) · [docker-build](../02-imagenes-dockerfile/docker-build.md)  
 - [README de la carpeta](README.md)  
-- Doc oficial: [docker login](https://docs.docker.com/reference/cli/docker/login/) · [docker push](https://docs.docker.com/reference/cli/docker/push/) · [Docker Hub](https://docs.docker.com/docker-hub/)  
+- Doc oficial: [docker login](https://docs.docker.com/reference/cli/docker/login/) · [docker push](https://docs.docker.com/reference/cli/docker/push/) · [Docker Hub](https://docs.docker.com/docker-hub/)
+
+
+

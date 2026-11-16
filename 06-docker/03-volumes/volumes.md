@@ -193,6 +193,11 @@ docker volume prune
 - Hacer `volume rm` pensando que es seguro “por si acaso” → **borra los datos** de ese volume.
 - Buscar los datos solo con `ls` en tu home: el volume “oficial” vive bajo `/var/lib/docker/volumes/…` (gestionado por Docker).
 
+
+## Siguiente
+
+[Hola bind](bind-mounts.md)
+
 ## Relacionados
 
 - Anterior: [conceptos-datos](conceptos-datos.md)  

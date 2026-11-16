@@ -71,7 +71,14 @@ history -d 42
 - Usar `!!` tras un comando peligroso (p. ej. `rm`): revisa antes de repetir.
 - El historial puede no guardarse si cierras la terminal de forma brusca, según configuración.
 
+## Siguiente
+
+[mkdir](../02-ficheros-directorios/mkdir.md)
+
 ## Relacionados
 
 - [help](help.md) — `help history` para más detalle
 - [clear](clear.md) — limpiar pantalla sin tocar el historial
+
+
+

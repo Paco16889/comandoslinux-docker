@@ -99,7 +99,14 @@ bad interpreter: No such file or directory
 
 - Poner el shebang en la línea 2: se ignora para `./`.
 
+## Siguiente
+
+[Tu primer script (paso a paso)](primer-script.md)
+
 ## Relacionados
 
 - [sh-vs-bash-vs-ejecutable](sh-vs-bash-vs-ejecutable.md)  
-- [primer-script](primer-script.md)  
+- [primer-script](primer-script.md)
+
+
+

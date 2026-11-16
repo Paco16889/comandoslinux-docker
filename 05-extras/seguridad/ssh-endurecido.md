@@ -196,6 +196,11 @@ WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED!
 - Guardar la clave **privada** en el servidor o en un chat.  
 - Usar `PermitRootLogin yes` + contraseña débil en un VPS expuesto: los bots lo escanean en minutos.
 
+
+## Siguiente
+
+[active → sí](../red-avanzada/nmcli.md)
+
 ## Relacionados
 
 - [ssh](../../03-red-paquetes/07-red/ssh.md) · [scp](../../03-red-paquetes/07-red/scp.md)  

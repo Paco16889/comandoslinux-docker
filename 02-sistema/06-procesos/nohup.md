@@ -85,8 +85,15 @@ nohup: ignoring input and appending output to 'nohup.out'
 - Llenar el disco con un `nohup.out` enorme: redirige a un log concreto o a `/dev/null` si no te importa la salida.
 - Cerrar la laptop / suspender: `nohup` no evita que el hardware se duerma; solo evita el SIGHUP al cerrar la terminal.
 
+## Siguiente
+
+[nice y renice](nice-renice.md)
+
 ## Relacionados
 
 - [jobs](jobs.md) / [bg-fg](bg-fg.md) — control en la sesión actual
 - [ps](ps.md) — verificar el proceso tras cerrar y abrir otra terminal
 - Más adelante: [09-scripts](../../04-automatizacion/09-scripts/) y redirecciones
+
+
+

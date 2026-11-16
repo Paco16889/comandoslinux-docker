@@ -171,10 +171,17 @@ Para el día a día novato: `docker build -t … .` basta; multi-stage no exige 
 - Meter secretos en la etapa build y copiar de más a la final → igual los filtras si haces `COPY --from=build / /` (demasiado amplio).  
 - Saltar `.dockerignore` porque “ya uso multi-stage” → el contexto sigue importando.
 
+## Siguiente
+
+[Healthcheck](healthcheck.md)
+
 ## Relacionados
 
 - Anterior: [dockerignore-contexto](dockerignore-contexto.md)  
 - Dockerfile / build: [dockerfile](../02-imagenes-dockerfile/dockerfile.md) · [docker-build](../02-imagenes-dockerfile/docker-build.md)  
 - Siguiente: [healthcheck](healthcheck.md)  
 - [README de la carpeta](README.md)  
-- Doc oficial: [Multi-stage builds](https://docs.docker.com/build/building/multi-stage/) · [BuildKit](https://docs.docker.com/build/buildkit/)  
+- Doc oficial: [Multi-stage builds](https://docs.docker.com/build/building/multi-stage/) · [BuildKit](https://docs.docker.com/build/buildkit/)
+
+
+

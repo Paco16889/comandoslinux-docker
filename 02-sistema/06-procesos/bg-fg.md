@@ -111,8 +111,15 @@ bash: bg: job has terminated
 
 - Hacer `fg` de un programa ruidoso (`ping`, `tail -f`) y no saber salir: `Ctrl+C` (terminar) o `Ctrl+Z` (pausar).
 
+## Siguiente
+
+[nohup](nohup.md)
+
 ## Relacionados
 
 - [jobs](jobs.md) — ver números `%1`, `%2`…
 - [nohup](nohup.md) — si necesitas que siga tras cerrar la terminal
 - [kill](kill.md) — terminar el job
+
+
+

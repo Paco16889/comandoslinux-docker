@@ -84,8 +84,15 @@ cat: <fichero>: No such file or directory
 - Usar `cat` en logs enormes: la terminal se llena; usa `less <fichero>` o `tail <fichero>`.
 - `cat <fichero> | less` funciona, pero `less <fichero>` es más directo.
 
+## Siguiente
+
+[less](less.md)
+
 ## Relacionados
 
 - [less](less.md) — lectura cómoda página a página
 - [head](head.md) / [tail](tail.md) — solo un trozo
 - [echo](../01-basicos/echo.md) — escribir una línea rápida
+
+
+

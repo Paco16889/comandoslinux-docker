@@ -146,6 +146,11 @@ Los comandos del día a día (`up`, `down`, `ps`, `logs`) van en [compose-basico
 - Mezclar Desktop y Engine en la cabeza: aquí solo CLI + plugin, sin GUI.
 - Pensar que Compose reemplaza Docker: **usa** el Engine; solo orquesta contenedores.
 
+
+## Siguiente
+
+[HTTP/1.1 200 OK](compose-basico.md)
+
 ## Relacionados
 
 - Install (plugin): [instalacion-engine](../00-introduccion/instalacion-engine.md)  

@@ -118,8 +118,15 @@ No match for argument: <paquete>
 - Confundir el nombre del **comando** con el del **paquete** (a veces coinciden, a veces no).
 - Ejecutar sin `sudo` acciones que escriben en el sistema.
 
+## Siguiente
+
+[pacman](pacman.md)
+
 ## Relacionados
 
 - [apt](apt.md) — si vienes de Ubuntu/Mint  
 - [flatpak](flatpak.md) — apps adicionales  
-- [pacman](pacman.md) — el de Arch  
+- [pacman](pacman.md) — el de Arch
+
+
+

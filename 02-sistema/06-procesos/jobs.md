@@ -104,8 +104,15 @@ jobs -l
 - Confundir `%1` con PID `1`: el job `%1` no es el proceso init; es “tu trabajo número 1”.
 - Cerrar la terminal con jobs en background: según el caso pueden recibir SIGHUP y morir (ver [nohup](nohup.md)).
 
+## Siguiente
+
+[bg y fg](bg-fg.md)
+
 ## Relacionados
 
 - [bg-fg](bg-fg.md) — reanudar en background o foreground
 - [kill](kill.md) — `kill %1` o `kill <PID>`
 - [nohup](nohup.md) — sobrevivir al cierre de la terminal
+
+
+

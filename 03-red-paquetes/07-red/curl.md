@@ -120,8 +120,15 @@ curl: (7) Failed to connect
 - Olvidar comillas en URLs con `&` o parámetros: usa `"<URL>"`.
 - Imprimir un binario enorme en la terminal: mejor `-o <fichero>`.
 
+## Siguiente
+
+[wget](wget.md)
+
 ## Relacionados
 
 - [wget](wget.md) — descargas “clásicas”
 - [ping](ping.md) — capa más baja (no es HTTP)
 - [dig-nslookup](dig-nslookup.md) — si falla la resolución del nombre
+
+
+

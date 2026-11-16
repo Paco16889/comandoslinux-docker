@@ -94,8 +94,15 @@ cut: the delimiter must be a single character
 - Esperar que `cut -d ' ' -f 2` funcione bien con espacios múltiples: no colapsa huecos.
 - Olvidar `-d` al usar `-f`: por defecto el delimitador es tabulación (`Tab`), no coma ni dos puntos.
 
+## Siguiente
+
+[diff](diff.md)
+
 ## Relacionados
 
 - [grep](grep.md) — filtrar líneas antes de cortar
 - [sort](sort.md) / [uniq](uniq.md) — ordenar y desduplicar columnas
 - [head](head.md) — ver una muestra
+
+
+

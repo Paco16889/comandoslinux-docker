@@ -318,9 +318,16 @@ Borrar **todos** los datos de Docker (destructivo):
 - `permission denied` al socket → grupo `docker` o falta re-login.  
 - Fedora: olvidar `systemctl enable --now docker`.
 
+## Siguiente
+
+[27.x.x](../01-fundamentos/conceptos-rapidos.md)
+
 ## Relacionados
 
 - [que-es-docker](que-es-docker.md)  
 - [01-fundamentos](../01-fundamentos/)  
 - Opcional Desktop: [07-desktop](../07-desktop/)  
-- Doc oficial: [Install overview](https://docs.docker.com/engine/install/) · [Debian](https://docs.docker.com/engine/install/debian/) · [Ubuntu](https://docs.docker.com/engine/install/ubuntu/) · [Fedora](https://docs.docker.com/engine/install/fedora/) · [Arch (engine)](https://wiki.archlinux.org/title/Docker) · [Post-install](https://docs.docker.com/engine/install/linux-postinstall/)  
+- Doc oficial: [Install overview](https://docs.docker.com/engine/install/) · [Debian](https://docs.docker.com/engine/install/debian/) · [Ubuntu](https://docs.docker.com/engine/install/ubuntu/) · [Fedora](https://docs.docker.com/engine/install/fedora/) · [Arch (engine)](https://wiki.archlinux.org/title/Docker) · [Post-install](https://docs.docker.com/engine/install/linux-postinstall/)
+
+
+

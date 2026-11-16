@@ -179,8 +179,15 @@ bash hay_red.sh
 - Usar `==` dentro de `[ ]` antiguo: en muchos sistemas `[` acepta `=`; en `[[ ]]` es más natural `==`.  
 - No poner comillas: `[ -f $f ]` falla si `$f` está vacío o tiene espacios → `[ -f "$f" ]`.
 
+## Siguiente
+
+[Bucles (`for`, `while`)](bucles.md)
+
 ## Relacionados
 
 - [bucles](bucles.md)  
 - [codigos-salida](codigos-salida.md)  
-- [sh-vs-bash-vs-ejecutable](sh-vs-bash-vs-ejecutable.md)  
+- [sh-vs-bash-vs-ejecutable](sh-vs-bash-vs-ejecutable.md)
+
+
+

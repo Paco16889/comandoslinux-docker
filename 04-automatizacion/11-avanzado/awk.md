@@ -115,8 +115,15 @@ awk '$2 >= 3 { print $0 }' /tmp/frutas.txt
 - Pensar que `$1` de awk es el `$1` del script Bash: viven en mundos distintos.  
 - Columnas de `ps`/`ls` “bailar” — a veces hace falta otro enfoque.
 
+## Siguiente
+
+[alias](alias.md)
+
 ## Relacionados
 
 - [cut](../../01-fundamentos/03-lectura-texto/cut.md)  
 - [sed](sed.md)  
-- [pipes](../10-pipes-redireccion/pipes.md)  
+- [pipes](../10-pipes-redireccion/pipes.md)
+
+
+

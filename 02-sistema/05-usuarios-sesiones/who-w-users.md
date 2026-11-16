@@ -106,8 +106,15 @@ users | tr ' ' '\n' | sort | uniq
 - Ver tu usuario dos veces: es normal si tienes varias terminales/SSH.
 - En entornos gráficos puede haber sesiones adicionales (`pts`, `tty`, seat…).
 
+## Siguiente
+
+[last / lastlog](last.md)
+
 ## Relacionados
 
 - [whoami](whoami.md) — solo tu identidad
 - [last](last.md) — historial, no solo los conectados ahora
 - [exit-logout](exit-logout.md) — cerrar una sesión
+
+
+

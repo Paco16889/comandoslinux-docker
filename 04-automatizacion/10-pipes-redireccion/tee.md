@@ -102,8 +102,15 @@ comando | tee <fichero>.txt > /dev/null
 - Pensar que `tee` sustituye a `>` en todos los casos: para “solo guardar sin ver”, con `>` basta.  
 - Usar `sudo echo ... > /etc/fichero`: el `>` lo hace tu shell sin root; usa `sudo tee`.
 
+## Siguiente
+
+[xargs](xargs.md)
+
 ## Relacionados
 
 - [redireccion](redireccion.md)  
 - [pipes](pipes.md)  
-- [combinar-errores](combinar-errores.md)  
+- [combinar-errores](combinar-errores.md)
+
+
+

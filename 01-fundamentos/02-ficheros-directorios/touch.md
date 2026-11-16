@@ -69,8 +69,15 @@ touch: cannot touch '<directorio>/<fichero>': No such file or directory
 
 - Pensar que `touch` escribe contenido: solo crea vacío o toca la fecha; para texto usa un editor o `echo "<texto>" > <fichero>`.
 
+## Siguiente
+
+[cp](cp.md)
+
 ## Relacionados
 
 - [mkdir](mkdir.md) — crear la carpeta antes
 - [cp](cp.md) — copiar un fichero ya existente
 - [echo](../01-basicos/echo.md) — escribir una línea en un fichero
+
+
+

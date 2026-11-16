@@ -79,7 +79,14 @@ echo "Home de $USER: $HOME"
 - Querer imprimir `$USER` literal y usar comillas dobles: usa comillas simples.
 - Para depuración seria a menudo se prefiere `printf`.
 
+## Siguiente
+
+[date](date.md)
+
 ## Relacionados
 
 - [date](date.md) — fecha/hora que suele combinarse con `echo`
 - [pwd](pwd.md) — o `echo $PWD`
+
+
+

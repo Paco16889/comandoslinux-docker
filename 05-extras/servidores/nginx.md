@@ -170,6 +170,11 @@ nginx -t falla
 
 - Abrir el puerto 80 a Internet sin saber qué sirves: en lab usa LAN o localhost.
 
+
+## Siguiente
+
+[Debian / Ubuntu / Linux Mint](apache.md)
+
 ## Relacionados
 
 - [apache](apache.md) — alternativa clásica  

@@ -135,8 +135,15 @@ Añade siempre redirección a un log mientras pruebas (`>> $HOME/mi.log 2>&1`).
 - Variables/`~/` que no se expanden como en tu terminal interactiva.  
 - Olvidar `\%` en `date +%F` dentro del crontab.
 
+## Siguiente
+
+[systemctl (introducción a systemd)](systemctl.md)
+
 ## Relacionados
 
 - [09-scripts](../09-scripts/) — lo que cron suele lanzar  
 - [systemctl](systemctl.md) — servicio cron  
-- [tar-gzip](tar-gzip.md) — backups programados  
+- [tar-gzip](tar-gzip.md) — backups programados
+
+
+

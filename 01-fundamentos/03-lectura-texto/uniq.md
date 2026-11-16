@@ -85,8 +85,15 @@ grep "<texto>" <fichero> | sort | uniq -c | sort -nr
 - Usar `uniq <fichero>` sin `sort` y “no quita duplicados”: es porque no eran consecutivos.
 - Confundir `uniq -u` (líneas que aparecen una sola vez) con “salida sin duplicados” (eso es `uniq` a secas tras `sort`, o `sort -u`).
 
+## Siguiente
+
+[cut](cut.md)
+
 ## Relacionados
 
 - [sort](sort.md) — casi siempre antes de `uniq`
 - [cut](cut.md) — extraer el campo a desduplicar
 - [wc](wc.md) — `sort <fichero> \| uniq \| wc -l` cuenta valores únicos
+
+
+

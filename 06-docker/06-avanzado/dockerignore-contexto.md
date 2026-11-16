@@ -175,9 +175,16 @@ Las dos se complementan.
 - Ignorar un fichero que luego `COPY` necesita → error `not found`.  
 - Meter `.env` con contraseñas y hacer `COPY .` sin ignore → riesgo alto.
 
+## Siguiente
+
+[Multi-stage builds](multi-stage.md)
+
 ## Relacionados
 
 - Build básico: [docker-build](../02-imagenes-dockerfile/docker-build.md) · [dockerfile](../02-imagenes-dockerfile/dockerfile.md)  
 - Siguiente: [multi-stage](multi-stage.md)  
 - [README de la carpeta](README.md)  
-- Doc oficial: [Build context](https://docs.docker.com/build/building/context/) · [.dockerignore](https://docs.docker.com/build/building/context/#dockerignore-files)  
+- Doc oficial: [Build context](https://docs.docker.com/build/building/context/) · [.dockerignore](https://docs.docker.com/build/building/context/#dockerignore-files)
+
+
+

@@ -115,8 +115,15 @@ scp ./backup.tar.gz ana@192.168.1.20:/home/ana/
 - Sin `-r` al copiar un directorio: fallará o no hará lo esperado.
 - Permisos en el destino: el `<usuario>` remoto debe poder escribir en esa carpeta.
 
+## Siguiente
+
+[dig y nslookup](dig-nslookup.md)
+
 ## Relacionados
 
 - [ssh](ssh.md) — misma autenticación y red
 - [cp](../../01-fundamentos/02-ficheros-directorios/cp.md) — copia local
 - [wget](wget.md) / [curl](curl.md) — bajar desde HTTP, no desde tu servidor SSH
+
+
+

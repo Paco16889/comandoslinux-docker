@@ -95,6 +95,10 @@ Cuando “renovéis” el bloque o entre Desktop/tokens, se puede ampliar; ahora
 - Pensar que rootless = “ya no hay riesgos” → reduce superficie; no elimina mala praxis (secretos, imágenes dudosas…).  
 - Abandonar la guía principal para pelearse con rootless el primer día → mejor cerrar A–F clásico primero.
 
+## Siguiente
+
+[Qué es Docker Desktop (en Linux)](../07-desktop/que-es-desktop.md)
+
 ## Relacionados
 
 - Anterior: [registry-login](registry-login.md)  
@@ -102,4 +106,7 @@ Cuando “renovéis” el bloque o entre Desktop/tokens, se puede ampliar; ahora
 - Tips: [seguridad-basica](seguridad-basica.md)  
 - Cierre del proyecto: [fin-proyecto](../../fin-proyecto.md)  
 - [README de la carpeta](README.md)  
-- Doc oficial: [Rootless mode](https://docs.docker.com/engine/security/rootless/) · [Post-install](https://docs.docker.com/engine/install/linux-postinstall/)  
+- Doc oficial: [Rootless mode](https://docs.docker.com/engine/security/rootless/) · [Post-install](https://docs.docker.com/engine/install/linux-postinstall/)
+
+
+

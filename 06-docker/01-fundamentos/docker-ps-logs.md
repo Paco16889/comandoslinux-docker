@@ -153,6 +153,11 @@ Los logs siguen disponibles aunque el contenedor esté **Exited** (hasta que lo 
 - Contenedor `Exited (1)` u otro código ≠ 0 → el proceso falló; `docker logs <nombre>` suele explicar el motivo.
 - Pensar que `ps` lista **imágenes**: las imágenes van con `docker images` (bloque de imágenes más adelante).
 
+
+## Siguiente
+
+[… Up …   web-demo](docker-stop-start-rm.md)
+
 ## Relacionados
 
 - Anterior: [docker-pull-run](docker-pull-run.md)  

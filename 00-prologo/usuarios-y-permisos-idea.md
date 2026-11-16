@@ -102,8 +102,15 @@ touch "$HOME/mi_fichero_de_prueba"
 ls -l "$HOME/mi_fichero_de_prueba"
 ```
 
+## Siguiente
+
+[Distribuciones (distros): qué cambia y qué no](distros.md)
+
 ## Relacionados
 
 - [04-permisos](../01-fundamentos/04-permisos/) — chmod, chown, umask, sudo  
 - [05-usuarios-sesiones](../02-sistema/05-usuarios-sesiones/) — cuentas, su, passwd  
-- [arbol-de-directorios](arbol-de-directorios.md)  
+- [arbol-de-directorios](arbol-de-directorios.md)
+
+
+

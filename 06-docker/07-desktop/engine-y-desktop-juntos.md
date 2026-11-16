@@ -123,10 +123,17 @@ Scripts que asumen el socket del sistema pueden necesitar `DOCKER_HOST` (doc: *U
 - Pensar que `docker pull` en Desktop rellena el disco de Engine → no; son mundos aparte.  
 - Arch / Mint: más fricción; prioriza contextos y logs si “no conecta”.
 
+## Siguiente
+
+Fin del temario. Índice: [README](../../README.md)
+
 ## Relacionados
 
 - Install Desktop: [instalacion-desktop](instalacion-desktop.md) · [que-es-desktop](que-es-desktop.md)  
 - Engine: [instalacion-engine](../00-introduccion/instalacion-engine.md)  
 - Fundamentos CLI: [01-fundamentos](../01-fundamentos/)  
 - [README de la carpeta](README.md)  
-- Doc oficial: [Desktop + Engine](https://docs.docker.com/desktop/setup/install/linux/#installing-docker-desktop-and-docker-engine) · [Docker contexts](https://docs.docker.com/engine/manage-resources/contexts/) · [docker context](https://docs.docker.com/reference/cli/docker/context/)  
+- Doc oficial: [Desktop + Engine](https://docs.docker.com/desktop/setup/install/linux/#installing-docker-desktop-and-docker-engine) · [Docker contexts](https://docs.docker.com/engine/manage-resources/contexts/) · [docker context](https://docs.docker.com/reference/cli/docker/context/)
+
+
+

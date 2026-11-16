@@ -76,8 +76,15 @@ rmdir: failed to remove '<directorio>': Directory not empty
 
 - Usar `rmdir` en un fichero: no sirve; `rmdir` solo es para directorios.
 
+## Siguiente
+
+[ln](ln.md)
+
 ## Relacionados
 
 - [mkdir](mkdir.md) — crear directorios
 - [rm](rm.md) — borrar ficheros o directorios con contenido
 - [ls](../01-basicos/ls.md) — comprobar si está vacío (`ls -A <directorio>`)
+
+
+

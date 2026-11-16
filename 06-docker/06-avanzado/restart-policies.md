@@ -182,6 +182,10 @@ docker rm -f web-restart web-always solo-si-falla 2>/dev/null
 cd ~/compose-restart 2>/dev/null && docker compose down 2>/dev/null
 ```
 
+## Siguiente
+
+[Seguridad básica (tips prácticos)](seguridad-basica.md)
+
 ## Relacionados
 
 - Anterior (pack 4): [limites-recursos](limites-recursos.md)  
@@ -189,4 +193,7 @@ cd ~/compose-restart 2>/dev/null && docker compose down 2>/dev/null
 - Ciclo de vida: [docker-stop-start-rm](../01-fundamentos/docker-stop-start-rm.md)  
 - Compose: [compose-basico](../05-compose/compose-basico.md)  
 - [README de la carpeta](README.md)  
-- Doc oficial: [Start containers automatically](https://docs.docker.com/engine/containers/start-containers-automatically/) · [Compose restart](https://docs.docker.com/reference/compose-file/services/#restart)  
+- Doc oficial: [Start containers automatically](https://docs.docker.com/engine/containers/start-containers-automatically/) · [Compose restart](https://docs.docker.com/reference/compose-file/services/#restart)
+
+
+

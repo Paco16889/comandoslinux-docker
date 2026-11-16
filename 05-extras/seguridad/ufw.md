@@ -192,6 +192,11 @@ sudo ufw app list
 # usa el nombre exacto entre comillas si tiene espacios
 ```
 
+
+## Siguiente
+
+[ejemplo: ssh-keygen -t ed25519 -C "portatil-mint-ana"](ssh-endurecido.md)
+
 ## Relacionados
 
 - [ssh](../../03-red-paquetes/07-red/ssh.md) · [ssh-endurecido](ssh-endurecido.md)  

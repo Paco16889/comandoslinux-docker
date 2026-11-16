@@ -147,8 +147,15 @@ useradd: user '<usuario>' already exists
 - Olvidar `-m`: usuario sin home.
 - `usermod -G` sin `-a`: te puedes cargar la membresía a `sudo`/`docker`/etc.
 
+## Siguiente
+
+[groupadd, groupmod y groupdel](groupadd-groupdel.md)
+
 ## Relacionados
 
 - [passwd](passwd.md) — poner contraseña tras el alta
 - [groupadd-groupdel](groupadd-groupdel.md) — crear grupos antes de `-G`
 - [sudo](sudo.md) — privilegios de administración
+
+
+

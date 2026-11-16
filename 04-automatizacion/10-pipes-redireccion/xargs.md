@@ -72,8 +72,15 @@ find <directorio> -name "*.tmp" | xargs echo rm
 # muestra qué haría; quita echo cuando estés seguro
 ```
 
+## Siguiente
+
+[tar y gzip](../11-avanzado/tar-gzip.md)
+
 ## Relacionados
 
 - [pipes](pipes.md)  
 - [find](../../01-fundamentos/02-ficheros-directorios/find.md)  
-- [bucles](../09-scripts/bucles.md) — a veces un `for` es más claro al aprender  
+- [bucles](../09-scripts/bucles.md) — a veces un `for` es más claro al aprender
+
+
+

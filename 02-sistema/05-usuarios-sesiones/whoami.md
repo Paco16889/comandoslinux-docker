@@ -92,8 +92,15 @@ hostname
 - Confiar solo en `$USER` tras `sudo`/`su`: a veces el entorno no se actualiza igual; `whoami` e `id` son más fiables para el usuario efectivo.  
 - Pensar que `hostname` es el usuario: es el nombre de la máquina.
 
+## Siguiente
+
+[who, w y users](who-w-users.md)
+
 ## Relacionados
 
 - [id](../../01-fundamentos/04-permisos/id.md) — UID, GID y grupos  
 - [who-w-users](who-w-users.md) — quién hay conectado  
-- [su](su.md) / [sudo](sudo.md) — cambiar de identidad  
+- [su](su.md) / [sudo](sudo.md) — cambiar de identidad
+
+
+

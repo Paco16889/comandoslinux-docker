@@ -163,6 +163,11 @@ No GPU to monitor / vacío
 - Confundir uso de **RAM** (`htop`/`free`) con **VRAM** (`nvtop`): son memorias distintas.  
 - Matar el proceso gráfico del escritorio desde nvtop: puedes quedarte sin sesión gráfica; ten cuidado con PIDs del compositor/`Xorg`/`gnome-shell`.
 
+
+## Siguiente
+
+[vsftpd (servidor FTP)](../servidores/vsftpd.md)
+
 ## Relacionados
 
 - Intro en el núcleo: [top/htop/nvtop](../../02-sistema/06-procesos/top-htop.md)  

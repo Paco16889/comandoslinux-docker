@@ -234,6 +234,11 @@ Equivale a `docker exec` sobre el contenedor de ese servicio.
 - Nombre de servicio con mayúsculas/espacios raros → mejor `web`, `db`, `api` en minúsculas.
 - Olvidar `command: sleep 3600` en Alpine → el contenedor `caja` sale al instante (`Exited`) y no puedes hacer `exec`.
 
+
+## Siguiente
+
+[Contexto de build y `.dockerignore`](../06-avanzado/dockerignore-contexto.md)
+
 ## Relacionados
 
 - Anterior: [compose-basico](compose-basico.md) · [que-es-compose](que-es-compose.md)  

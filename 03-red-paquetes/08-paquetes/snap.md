@@ -104,7 +104,14 @@ flatpak install flathub <id_de_la_app>
 - Seguir un tutorial de Ubuntu con `snap` en Mint y encontrar fricción: en Mint mira primero Flatpak o `apt`.
 - Tener la misma app en snap y en apt/flatpak: duplicados y confusión en el menú.
 
+## Siguiente
+
+[Buscar e informar — chuleta multi-distro](buscar-e-info.md)
+
 ## Relacionados
 
 - [flatpak](flatpak.md) — alternativa más alineada con Mint  
-- [apt](apt.md) — paquetes del sistema en Ubuntu/Mint  
+- [apt](apt.md) — paquetes del sistema en Ubuntu/Mint
+
+
+

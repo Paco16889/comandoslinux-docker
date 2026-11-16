@@ -96,8 +96,15 @@ find: ‘<ruta>’: Permission denied
 
 - Carpetas a las que tu `<usuario>` no puede entrar; es normal en rutas del sistema.
 
+## Siguiente
+
+[tree](tree.md)
+
 ## Relacionados
 
 - [ls](../01-basicos/ls.md) — listar un directorio concreto
 - [tree](tree.md) — ver estructura en árbol
 - [rm](rm.md) — borrar a mano lo que find te mostró
+
+
+

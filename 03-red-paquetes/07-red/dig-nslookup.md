@@ -118,8 +118,15 @@ sudo pacman -S bind
 - Confiar en una IP “para siempre”: pueden cambiar (CDN, balanceo).
 - En equipos con `systemd-resolved`, mirar solo `/etc/resolv.conf` puede confundir; `dig` sigue siendo una buena prueba práctica.
 
+## Siguiente
+
+[Conceptos de paquetes](../08-paquetes/conceptos.md)
+
 ## Relacionados
 
 - [ping](ping.md) — separar “fallo DNS” vs “fallo de red”
 - [curl](curl.md) — si el DNS va pero la web no
 - [ip](ip.md) — configuración local
+
+
+

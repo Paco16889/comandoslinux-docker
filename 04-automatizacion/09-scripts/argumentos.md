@@ -112,8 +112,15 @@ echo "Hola, $nombre"
 - Pensar que `$1` es el script: el script es `$0`.  
 - Olvidar pasar el argumento y no comprobar `$#`.
 
+## Siguiente
+
+[Condicionales (`if`)](condicionales.md)
+
 ## Relacionados
 
 - [variables](variables.md)  
 - [condicionales](condicionales.md)  
-- [codigos-salida](codigos-salida.md)  
+- [codigos-salida](codigos-salida.md)
+
+
+

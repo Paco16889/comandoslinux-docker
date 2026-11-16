@@ -175,6 +175,11 @@ No hace falta cuenta para **bajar** imágenes públicas habituales.
 - Usar siempre `latest` en tutoriales serios: mejor un tag fijo (`24.04`, `1.27-alpine`…) para repetir el mismo resultado.
 - Asustarte con `SIZE`: capas compartidas; no sumes a ciegas todos los tamaños como si fueran exclusivos.
 
+
+## Siguiente
+
+[Quita la página por defecto y pon la tuya](dockerfile.md)
+
 ## Relacionados
 
 - Contenedores: [01-fundamentos](../01-fundamentos/) · [docker-stop-start-rm](../01-fundamentos/docker-stop-start-rm.md) (`rmi` básico)  

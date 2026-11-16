@@ -141,8 +141,15 @@ chmod: changing permissions of '<ruta>': Operation not permitted
 - Poner `777` “para que funcione”: abre el fichero a cualquiera; busca el permiso mínimo necesario.
 - `chmod -R 755` sobre datos: los ficheros quedan ejecutables; a menudo se separan reglas para dirs y ficheros.
 
+## Siguiente
+
+[chown](chown.md)
+
 ## Relacionados
 
 - [leer-ls-l](leer-ls-l.md) — interpretar el resultado
 - [chown](chown.md) — si el problema es el dueño, no el modo
 - [umask](umask.md) — permisos iniciales al crear
+
+
+

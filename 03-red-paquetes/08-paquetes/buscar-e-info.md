@@ -185,7 +185,14 @@ No match for argument / target not found
 3. En Mint: prueba también Flatpak.  
 4. Revisa si el comando y el paquete se llaman distinto.  
 
+## Siguiente
+
+[sh vs bash vs `./fichero`](../../04-automatizacion/09-scripts/sh-vs-bash-vs-ejecutable.md)
+
 ## Relacionados
 
 - [apt](apt.md) · [flatpak](flatpak.md) · [dnf](dnf.md) · [pacman](pacman.md) · [snap](snap.md)  
-- [conceptos](conceptos.md) — por qué a veces “no está”  
+- [conceptos](conceptos.md) — por qué a veces “no está”
+
+
+

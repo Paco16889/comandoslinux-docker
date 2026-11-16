@@ -89,8 +89,15 @@ sudo pacman -S tree
 
 - Árbol enorme e ilegible: usa `-L <número>` (por ejemplo `-L 2`).
 
+## Siguiente
+
+[cat](../03-lectura-texto/cat.md)
+
 ## Relacionados
 
 - [ls](../01-basicos/ls.md) — listado clásico (`ls -R` es más tosco)
 - [find](find.md) — buscar en lugar de solo visualizar
 - [mkdir](mkdir.md) — crear la estructura que luego ves con `tree`
+
+
+

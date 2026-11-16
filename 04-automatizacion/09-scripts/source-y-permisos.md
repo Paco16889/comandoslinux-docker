@@ -120,8 +120,15 @@ Al principio puedes omitir `set -euo pipefail` y añadirlo cuando te sientas có
 - `chmod 777` “para que vaya”: exceso de permisos; con `+x` suele bastar.  
 - Editar en Windows y romper el shebang (`^M`).
 
+## Siguiente
+
+[Salida estándar y error estándar](../10-pipes-redireccion/stdout-stderr.md)
+
 ## Relacionados
 
 - [sh-vs-bash-vs-ejecutable](sh-vs-bash-vs-ejecutable.md)  
 - [shebang](shebang.md)  
-- [chmod](../../01-fundamentos/04-permisos/chmod.md)  
+- [chmod](../../01-fundamentos/04-permisos/chmod.md)
+
+
+

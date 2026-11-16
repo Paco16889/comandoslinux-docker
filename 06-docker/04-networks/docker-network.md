@@ -181,6 +181,11 @@ docker network prune
 - Intentar `network rm bridge` → no (red del sistema).
 - Crear la red y olvidar `--network` en el `run` → el contenedor se va a `bridge` default y no entra en tu `lab`.
 
+
+## Siguiente
+
+[Probar resolución / HTTP interno (ejemplo)](dns-entre-contenedores.md)
+
 ## Relacionados
 
 - Anterior: [conceptos-red](conceptos-red.md)  

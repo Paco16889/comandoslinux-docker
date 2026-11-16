@@ -260,10 +260,17 @@ sudo dnf install ./docker-desktop-x86_64.rpm
 - Empresa grande sin licencia → revisa términos de suscripción.  
 - Mint / derivados: no están en la tabla oficial de Desktop; vía Ubuntu “mejor esfuerzo”.
 
+## Siguiente
+
+[Engine y Desktop a la vez (contextos)](engine-y-desktop-juntos.md)
+
 ## Relacionados
 
 - Anterior: [que-es-desktop](que-es-desktop.md)  
 - Siguiente: [engine-y-desktop-juntos](engine-y-desktop-juntos.md)  
 - Repo/CLI/Engine: [instalacion-engine](../00-introduccion/instalacion-engine.md)  
 - [README de la carpeta](README.md)  
-- Doc oficial: [Ubuntu](https://docs.docker.com/desktop/setup/install/linux/ubuntu/) · [Debian](https://docs.docker.com/desktop/setup/install/linux/debian/) · [Fedora](https://docs.docker.com/desktop/setup/install/linux/fedora/) · [Arch](https://docs.docker.com/desktop/setup/install/linux/archlinux/) · [RHEL](https://docs.docker.com/desktop/setup/install/linux/rhel/) · [Release notes](https://docs.docker.com/desktop/release-notes/)  
+- Doc oficial: [Ubuntu](https://docs.docker.com/desktop/setup/install/linux/ubuntu/) · [Debian](https://docs.docker.com/desktop/setup/install/linux/debian/) · [Fedora](https://docs.docker.com/desktop/setup/install/linux/fedora/) · [Arch](https://docs.docker.com/desktop/setup/install/linux/archlinux/) · [RHEL](https://docs.docker.com/desktop/setup/install/linux/rhel/) · [Release notes](https://docs.docker.com/desktop/release-notes/)
+
+
+

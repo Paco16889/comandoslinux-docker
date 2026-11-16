@@ -136,7 +136,14 @@ mkcd <directorio>
 - Esperar que un alias funcione dentro de un script: por defecto los scripts no cargan tus aliases.  
 - Crear `update-mint` y lanzarlo sin querer en una demo: actualiza el sistema de verdad.
 
+## Siguiente
+
+[Extras — estado](extras-futuro.md)
+
 ## Relacionados
 
 - [source-y-permisos](../09-scripts/source-y-permisos.md) — `source ~/.bashrc`  
-- [08-paquetes](../../03-red-paquetes/08-paquetes/) — apt + flatpak  
+- [08-paquetes](../../03-red-paquetes/08-paquetes/) — apt + flatpak
+
+
+

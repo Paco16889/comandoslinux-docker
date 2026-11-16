@@ -74,8 +74,15 @@ Si ves `Destination Host Unreachable` o 100% loss: no hay camino útil hasta ese
 - Algunos servidores **bloquean ping**: que no responda no siempre significa que “Internet esté caído”.
 - Hace falta el paquete `iputils-ping` (casi siempre ya viene).
 
+## Siguiente
+
+[ip](ip.md)
+
 ## Relacionados
 
 - [ip](ip.md) — ver tu propia IP
 - [dig-nslookup](dig-nslookup.md) — si sospechas de DNS
 - [traceroute](traceroute.md) — ver por dónde se pierde el camino
+
+
+

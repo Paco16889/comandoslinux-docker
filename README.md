@@ -8,11 +8,11 @@ Pensada para aprender **desde cero**.
 Sigue el orden de los números: primero el bloque, después las carpetas internas.
 
 0. **[Prólogo](00-prologo/)** — qué es Linux, carpetas del sistema, distros *(empieza aquí si eres nuevo)*  
-1. **Fundamentos** — terminal, ficheros, texto y permisos  
-2. **Sistema** — usuarios, sesiones y procesos  
-3. **Red y paquetes** — conectividad e instalación de software  
-4. **Automatización** — scripts, pipes y herramientas avanzadas  
-5. **Extras** — herramientas/servicios concretos (después del núcleo)  
+1. **[Fundamentos](01-fundamentos/)** — terminal, ficheros, texto y permisos  
+2. **[Sistema](02-sistema/)** — usuarios, sesiones y procesos  
+3. **[Red y paquetes](03-red-paquetes/)** — conectividad e instalación de software  
+4. **[Automatización](04-automatizacion/)** — scripts, pipes y herramientas avanzadas  
+5. **[Extras](05-extras/)** — herramientas/servicios concretos (después del núcleo)  
 6. **[Docker](06-docker/)** — Engine/CLI + Desktop opcional (fuera de extras)
 
 Antes de teclear comandos, lee también: [Cómo leer la sintaxis](#cómo-leer-la-sintaxis-muy-importante).

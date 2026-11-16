@@ -108,7 +108,14 @@ ls -lh backup-$fecha.tar.gz
 - Extraer sin mirar el contenido y llenar el directorio actual de ficheros sueltos → primero `-tzvf`.  
 - Confundir `tar -xzvf` (extraer) con `tar -czvf` (crear).
 
+## Siguiente
+
+[cron / crontab](cron.md)
+
 ## Relacionados
 
 - [cp](../../01-fundamentos/02-ficheros-directorios/cp.md) — copiar sin empaquetar  
-- [find](../../01-fundamentos/02-ficheros-directorios/find.md) — elegir qué entrar en el backup  
+- [find](../../01-fundamentos/02-ficheros-directorios/find.md) — elegir qué entrar en el backup
+
+
+

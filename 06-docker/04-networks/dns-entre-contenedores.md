@@ -181,6 +181,11 @@ docker network rm lab appnet 2>/dev/null
 - `Could not resolve host` → no están en la misma red, typo en el nombre, o el contenedor destino no existe/`Exited`.
 - Instalar `curl` en Alpine en cada prueba y pensar que “la imagen cambió para siempre” → `apk add` en un contenedor **en marcha** no modifica la imagen; al recrearlo hay que instalar otra vez (o hazte una imagen con Dockerfile).
 
+
+## Siguiente
+
+[HTTP/1.1 200 OK](../05-compose/que-es-compose.md)
+
 ## Relacionados
 
 - Anterior: [docker-network](docker-network.md) · [conceptos-red](conceptos-red.md)  

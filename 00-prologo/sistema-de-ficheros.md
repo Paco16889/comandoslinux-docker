@@ -108,7 +108,14 @@ sudo tree -L 1 /
 - Borrar cosas bajo `/` con `sudo` “para probar”: puedes romper el sistema. En el prólogo solo **miramos**.  
 - Pensar que `C:` tiene que existir: no.
 
+## Siguiente
+
+[Árbol de directorios: qué va en cada carpeta](arbol-de-directorios.md)
+
 ## Relacionados
 
 - [arbol-de-directorios](arbol-de-directorios.md) — qué significa cada carpeta grande  
-- [cd / pwd / ls](../01-fundamentos/01-basicos/)  
+- [cd / pwd / ls](../01-fundamentos/01-basicos/)
+
+
+

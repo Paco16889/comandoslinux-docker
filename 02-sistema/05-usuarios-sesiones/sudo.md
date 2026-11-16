@@ -123,8 +123,15 @@ sudo: a password is required
 
 - Contraseña: la de **tu usuario**, no la de root (en el esquema habitual).
 
+## Siguiente
+
+[passwd](passwd.md)
+
 ## Relacionados
 
 - [su](su.md) — cambiar de usuario con su contraseña
 - [useradd-usermod-userdel](useradd-usermod-userdel.md) — meter a alguien en el grupo sudo/wheel
 - [whoami](whoami.md) — `sudo whoami` → `root`
+
+
+

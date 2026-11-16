@@ -105,8 +105,15 @@ echo $?
 # 0 = iguales, 1 = distintos, 2 = error
 ```
 
+## Siguiente
+
+[Leer `ls -l`](../04-permisos/leer-ls-l.md)
+
 ## Relacionados
 
 - [cat](cat.md) / [less](less.md) — revisar cada fichero por separado
 - [grep](grep.md) — buscar un cambio concreto
 - [cp](../02-ficheros-directorios/cp.md) — crear una copia antes de editar y luego `diff`
+
+
+

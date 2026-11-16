@@ -272,9 +272,16 @@ ls /media 2>/dev/null
 - Seguir una ruta de Arch (`/srv/http`) en Mint sin mirar si existe.  
 - Buscar `C:\Program Files`: aquí es más `/usr`, `/opt`, Flatpak y tu `$HOME`.
 
+## Siguiente
+
+[Usuarios y permisos (idea general)](usuarios-y-permisos-idea.md)
+
 ## Relacionados
 
 - [sistema-de-ficheros](sistema-de-ficheros.md)  
 - [distros](distros.md) — gestores y filosofía  
 - [usuarios-y-permisos-idea](usuarios-y-permisos-idea.md)  
-- [02-ficheros-directorios](../01-fundamentos/02-ficheros-directorios/)  
+- [02-ficheros-directorios](../01-fundamentos/02-ficheros-directorios/)
+
+
+

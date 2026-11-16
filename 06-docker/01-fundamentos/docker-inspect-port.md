@@ -151,6 +151,11 @@ docker port web-9000
 - Ahogarse con `inspect` sin `--format`: son pantallas de JSON; empieza por `port`, `ps` y un `--format` concreto.
 - Firewall del host (ufw, etc.) bloqueando el puerto publicado → el contenedor está Up pero no entras desde fuera de la máquina (tema seguridad/red del temario Linux).
 
+
+## Siguiente
+
+[latest suele ser más “completa”; alpine es más pequeña](../02-imagenes-dockerfile/imagenes.md)
+
 ## Relacionados
 
 - Anterior: [docker-exec](docker-exec.md)  

@@ -122,8 +122,15 @@ echo $?
 
 - Usar códigos al azar: conviene documentar en el script qué significa `1`, `2`…
 
+## Siguiente
+
+[`source`, permisos y buenos hábitos](source-y-permisos.md)
+
 ## Relacionados
 
 - [condicionales](condicionales.md)  
 - [primer-script](primer-script.md)  
-- [10-pipes-redireccion](../10-pipes-redireccion/) — `&&` y `||` usan códigos de salida  
+- [10-pipes-redireccion](../10-pipes-redireccion/) — `&&` y `||` usan códigos de salida
+
+
+

@@ -244,6 +244,11 @@ Note: Host seems down
 
 - El equipo apagado, IP mal, o un firewall no responde a los probes. Prueba `ping <IP>` primero.
 
+
+## Siguiente
+
+[Qué es Docker (introducción)](../../06-docker/00-introduccion/que-es-docker.md)
+
 ## Relacionados
 
 - [ping](../../03-red-paquetes/07-red/ping.md) · [ip](../../03-red-paquetes/07-red/ip.md) · [ss](../../03-red-paquetes/07-red/ss.md)  

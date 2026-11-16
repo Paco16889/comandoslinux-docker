@@ -172,6 +172,11 @@ Unit apache2.service not found
 - Editar `/var/www/html` sin `sudo` y no entender el “Permission denied”.  
 - Mezclar tutoriales `httpd` y `apache2` sin mirar la distro.
 
+
+## Siguiente
+
+[Debian / Ubuntu / Linux Mint](samba.md)
+
 ## Relacionados
 
 - [nginx](nginx.md)  

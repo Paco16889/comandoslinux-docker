@@ -116,8 +116,15 @@ flatpak search <texto>
 # filas con Application ID (lo que usarás al instalar)
 ```
 
+## Siguiente
+
+[apt](apt.md)
+
 ## Relacionados
 
 - [apt](apt.md) — si usas Debian/Ubuntu/Mint  
 - [flatpak](flatpak.md) — apps en Mint  
-- [dnf](dnf.md) / [pacman](pacman.md) — otras familias  
+- [dnf](dnf.md) / [pacman](pacman.md) — otras familias
+
+
+

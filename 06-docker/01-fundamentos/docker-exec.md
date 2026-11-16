@@ -150,6 +150,11 @@ docker exec -it web-demo sh
 - Olvidar `-it` en un shell: a veces “no responde” o se ve raro; para interactivo usa `-it`.
 - Salir con `exit` **no** para el contenedor cuando entraste con `exec` (solo cierras esa sesión). El servicio sigue (`docker ps`).
 
+
+## Siguiente
+
+[80/tcp -> 0.0.0.0:8080](docker-inspect-port.md)
+
 ## Relacionados
 
 - Anterior: [docker-stop-start-rm](docker-stop-start-rm.md)  

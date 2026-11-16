@@ -90,8 +90,15 @@ Unit <servicio>.service could not be found
 - Usar `start` pensando que ya quedará para siempre: `start` es ahora; `enable` es en el boot.  
 - Sin `sudo` en acciones que cambian el sistema.
 
+## Siguiente
+
+[sed (introducción)](sed.md)
+
 ## Relacionados
 
 - [ssh](../../03-red-paquetes/07-red/ssh.md)  
 - [cron](cron.md)  
-- [08-paquetes](../../03-red-paquetes/08-paquetes/) — instalar el servicio antes  
+- [08-paquetes](../../03-red-paquetes/08-paquetes/) — instalar el servicio antes
+
+
+

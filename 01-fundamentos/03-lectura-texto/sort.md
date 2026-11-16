@@ -90,8 +90,15 @@ cut -d ':' -f 1 <fichero> | sort
 - Pensar que `sort -u` es igual que `uniq` siempre: `uniq` exige que los duplicados estén **juntos**; `sort -u` ordena primero.
 - Separador mal elegido en CSV: si hay comas dentro de campos entrecomillados, `sort`/`cut` se quedan cortos.
 
+## Siguiente
+
+[uniq](uniq.md)
+
 ## Relacionados
 
 - [uniq](uniq.md) — trabajar con duplicados (normalmente tras `sort`)
 - [cut](cut.md) — extraer columnas antes de ordenar
 - [grep](grep.md) — filtrar antes de ordenar
+
+
+

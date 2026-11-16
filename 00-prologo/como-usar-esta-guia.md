@@ -52,8 +52,15 @@ cat notas.txt
 
 Si eso te sale, pasa a [01-basicos](../01-fundamentos/01-basicos/).
 
+## Siguiente
+
+[pwd](../01-fundamentos/01-basicos/pwd.md)
+
 ## Relacionados
 
 - [README principal](../README.md)  
 - [01-fundamentos](../01-fundamentos/)  
-- [05-extras](../05-extras/)  
+- [05-extras](../05-extras/)
+
+
+

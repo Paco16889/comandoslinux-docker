@@ -89,9 +89,16 @@ id: ‘<usuario>’: no such user
 
 - Pensar que “estoy en el grupo” tras un `usermod` sin cerrar sesión: a menudo hace falta **nueva sesión** para que el grupo nuevo sea efectivo.
 
+## Siguiente
+
+[sudo](sudo.md)
+
 ## Relacionados
 
 - [leer-ls-l](leer-ls-l.md) — dueño/grupo del fichero vs tu `id`
 - [chown](chown.md) / [chgrp](chgrp.md) — cambiar propietario
 - [sudo](sudo.md) — actuar como root u otro usuario
 - Más adelante: carpeta [05-usuarios-sesiones](../../02-sistema/05-usuarios-sesiones/)
+
+
+

@@ -208,6 +208,11 @@ Jail sshd is not active / does not exist
 - Autobloquearte por VPN/IP dinámica: configura `ignoreip` o sube `maxretry` mientras pruebas.  
 - Pensar que fail2ban sustituye contraseñas fuertes y claves SSH: es una capa más, no la única.
 
+
+## Siguiente
+
+[Debian / Ubuntu / Linux Mint](../seguridad/ufw.md)
+
 ## Relacionados
 
 - [ssh](../../03-red-paquetes/07-red/ssh.md) · [ssh-endurecido](../seguridad/ssh-endurecido.md)  

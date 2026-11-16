@@ -117,8 +117,15 @@ echo 'umask 027' >> /home/<usuario>/.bashrc
 - Cambiar umask y no ver cambios en ficheros viejos: solo afecta a creaciones nuevas.
 - Poner `umask 000` → ficheros/dirs muy permisivos; poco recomendable.
 
+## Siguiente
+
+[id](id.md)
+
 ## Relacionados
 
 - [chmod](chmod.md) — ajustar un fichero ya creado
 - [touch](../02-ficheros-directorios/touch.md) / [mkdir](../02-ficheros-directorios/mkdir.md) — crear y comprobar con `ls -l`
 - [leer-ls-l](leer-ls-l.md) — verificar el resultado
+
+
+

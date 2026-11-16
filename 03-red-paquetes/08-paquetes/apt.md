@@ -149,8 +149,15 @@ Do you want to continue? [Y/n]
 
 - Confundir `update` con `upgrade`: `update` solo refresca el catálogo.
 
+## Siguiente
+
+[flatpak](flatpak.md)
+
 ## Relacionados
 
 - [flatpak](flatpak.md) — el otro pilar en Mint  
 - [conceptos](conceptos.md) — dependencias y repos  
-- [buscar-e-info](buscar-e-info.md) — comparar búsquedas entre gestores  
+- [buscar-e-info](buscar-e-info.md) — comparar búsquedas entre gestores
+
+
+

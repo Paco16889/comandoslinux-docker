@@ -101,8 +101,15 @@ renice: failed to set priority for <PID>: Permission denied
 
 - Poner `-20` a todo: puedes dejar el sistema menos responsive para el resto. Empieza con valores suaves (`10`, `15`).
 
+## Siguiente
+
+[free y uptime](free-uptime.md)
+
 ## Relacionados
 
 - [ps](ps.md) / [top-htop](top-htop.md) — ver la columna NI y el PID
 - [nohup](nohup.md) — combinar tareas largas de fondo
 - [kill](kill.md) — si el proceso no debería seguir
+
+
+

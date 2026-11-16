@@ -84,8 +84,15 @@ BAD PASSWORD: ...
 
 - No cumple la política; prueba una más larga/compleja.
 
+## Siguiente
+
+[useradd, usermod y userdel](useradd-usermod-userdel.md)
+
 ## Relacionados
 
 - [useradd-usermod-userdel](useradd-usermod-userdel.md) — crear el usuario antes
 - [sudo](sudo.md) — para administrar otras cuentas
 - [su](su.md) — probar login tras el cambio
+
+
+

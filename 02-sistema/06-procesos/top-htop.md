@@ -190,9 +190,16 @@ htop
 - Abrir `nvtop` sin drivers de GPU / sin GPU dedicada: vacío, error o poco útil; no significa que el comando “esté roto”.
 - Confundir `htop` y `nvtop`: el primero es sistema (CPU/RAM); el segundo es gráfica.
 
+## Siguiente
+
+[kill](kill.md)
+
 ## Relacionados
 
 - [ps](ps.md) — foto puntual
 - [kill](kill.md) — matar desde fuera de top/htop
 - [free-uptime](free-uptime.md) — memoria RAM y carga de otra forma
 - [sensors](../../05-extras/monitorizacion/sensors.md) — temperaturas del hardware (extras)
+
+
+

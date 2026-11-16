@@ -182,6 +182,11 @@ Permission denied
 - Borrar desde `ncdu` con `d` sin leer: puedes cargar la papelera… o borrar de verdad según opciones; confirma siempre.  
 - `du -sh /*` como root puede ser eterno y ruidoso: mejor `ncdu` por zonas (`/var`, `/home`).
 
+
+## Siguiente
+
+[Debian / Ubuntu / Linux Mint](iotop.md)
+
 ## Relacionados
 
 - [ls](../../01-fundamentos/01-basicos/ls.md)  

@@ -202,6 +202,11 @@ Solución (idea): otro nombre, o borrar/parar el anterior (tema [docker-stop-sta
 - Olvidar `-d` en un servicio largo: la terminal se queda “enganchada”; `Ctrl+C` puede parar el contenedor según el caso. Para servicios, `-d` es lo habitual.
 - Pensar que `pull` arranca algo: solo descarga. Arrancar = `run` (o `start` de uno ya creado).
 
+
+## Siguiente
+
+[… nginx:alpine   Up …   0.0.0.0:8080->80/tcp   web-demo](docker-ps-logs.md)
+
 ## Relacionados
 
 - Anterior: [conceptos-rapidos](conceptos-rapidos.md)  

@@ -191,6 +191,11 @@ ls -l index.html
 - No tener la base en caché ni red → falla el `FROM` / pull de `nginx:alpine`.
 - Meter `node_modules`, `.git` o backups en el contexto sin `.dockerignore` → builds lentos y a veces capas enormes si haces `COPY .`.
 
+
+## Siguiente
+
+[Volume nombrado](../03-volumes/conceptos-datos.md)
+
 ## Relacionados
 
 - Anterior: [dockerfile](dockerfile.md) · [imagenes](imagenes.md)  

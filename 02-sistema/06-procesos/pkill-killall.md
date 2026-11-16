@@ -124,8 +124,15 @@ killall: <nombre>: no process found
 - `pkill java` en un servidor con varios servicios Java: puede tumbar más de uno. Acota con `-u` o un patrón más largo, o usa PIDs concretos.
 - `pkill -f .` o patrones absurdamente amplios: peligro alto.
 
+## Siguiente
+
+[jobs](jobs.md)
+
 ## Relacionados
 
 - [kill](kill.md) — por PID (más preciso)
 - [ps](ps.md) — inspeccionar antes
 - [jobs](jobs.md) — si el proceso lo lanzaste en *esta* terminal, a veces basta `kill %1`
+
+
+

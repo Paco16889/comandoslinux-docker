@@ -126,6 +126,11 @@ Detalle del grupo: [instalacion-engine](../00-introduccion/instalacion-engine.md
 - Pensar que `docker info` “arregla” algo: solo **informa**; no descarga ni arranca contenedores.
 - Mezclar mentalmente imagen y contenedor: `docker images` lista plantillas; `docker ps` lista contenedores (eso va en las siguientes páginas).
 
+
+## Siguiente
+
+[mismo “Hello from Docker!”; al terminar el contenedor se borra solo](docker-pull-run.md)
+
 ## Relacionados
 
 - Anterior: [que-es-docker](../00-introduccion/que-es-docker.md) · [instalacion-engine](../00-introduccion/instalacion-engine.md)  

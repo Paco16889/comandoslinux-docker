@@ -104,8 +104,15 @@ sudo pacman -S traceroute
 - Confundir “no completa traceroute” con “no hay Internet”: prueba también `ping` y `curl`.
 - Necesitar `sudo` en algunos modos de `traceroute` y pensar que el comando no existe.
 
+## Siguiente
+
+[ssh](ssh.md)
+
 ## Relacionados
 
 - [ping](ping.md) — ¿responde el destino?
 - [ip](ip.md) — tu puerta de enlace (`ip route`)
 - [dig-nslookup](dig-nslookup.md) — si el nombre no resuelve
+
+
+

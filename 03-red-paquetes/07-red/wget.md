@@ -107,8 +107,15 @@ wget: unable to resolve host address
 - Enlaces que requieren navegador/login: `wget` no “rellena” formularios complejos solo; a veces hace falta `curl` con cookies/cabeceras.
 - Descargar sin `-O` y no encontrar el fichero: mira el nombre que eligió en el directorio actual (`ls -lt`).
 
+## Siguiente
+
+[traceroute / tracepath](traceroute.md)
+
 ## Relacionados
 
 - [curl](curl.md) — más flexible con HTTP
 - [scp](scp.md) — copiar desde/hacia otro equipo por SSH
 - [ping](ping.md) — comprobar red antes de descargar
+
+
+

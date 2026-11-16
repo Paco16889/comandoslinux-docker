@@ -117,8 +117,15 @@ sudo apt install iproute2
 # (ip suele venir ya con el sistema)
 ```
 
+## Siguiente
+
+[hostname](hostname.md)
+
 ## Relacionados
 
 - [ping](ping.md) — probar conectividad
 - [hostname](hostname.md) — nombre del equipo
 - [ss](ss.md) — conexiones y puertos
+
+
+

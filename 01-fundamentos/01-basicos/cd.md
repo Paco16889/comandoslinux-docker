@@ -88,7 +88,14 @@ bash: cd: <directorio>: No such file or directory
 - Espacios en el nombre: usa comillas → `cd "<directorio con espacios>"`.
 - Confundir `cd /home` (absoluta) con `cd home` (relativa: busca `home` dentro del directorio actual).
 
+## Siguiente
+
+[clear](clear.md)
+
 ## Relacionados
 
 - [pwd](pwd.md) — comprobar dónde quedaste
 - [ls](ls.md) — ver qué hay al llegar
+
+
+

@@ -225,6 +225,11 @@ CMD ["<comando>", "<args>"]
 - Muchos `RUN` sueltos con cachés de apt/apk sin limpiar → imagen más gorda.
 - Poner secretos (contraseñas, tokens) en el Dockerfile o en `COPY` → quedan en capas de la imagen.
 
+
+## Siguiente
+
+[REPOSITORY   TAG   …](docker-build.md)
+
 ## Relacionados
 
 - Anterior: [imagenes](imagenes.md)  

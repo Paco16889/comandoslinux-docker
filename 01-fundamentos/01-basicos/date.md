@@ -64,7 +64,14 @@ echo "backup-$(date +%Y%m%d).tar.gz"
 - Olvidar el `+` en el formato: `date +%F`, no `date %F`.
 - Cambiar la hora del sistema sin privilegios: hace falta `sudo` (en sistemas modernos suele usarse `timedatectl`).
 
+## Siguiente
+
+[man](man.md)
+
 ## Relacionados
 
 - [echo](echo.md) — combinar texto con la fecha
 - [history](history.md) — marcas de tiempo si está activado `HISTTIMEFORMAT`
+
+
+

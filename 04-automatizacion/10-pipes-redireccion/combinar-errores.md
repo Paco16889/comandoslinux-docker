@@ -86,8 +86,15 @@ comando 2>&1 > fichero
 - Creer que `> fichero` guarda errores: no.  
 - Mezclar `&>` (Bash) en un script lanzado con `sh`/dash: puede fallar; usa `> fichero 2>&1`.
 
+## Siguiente
+
+[`&&` y `||`](and-or.md)
+
 ## Relacionados
 
 - [stdout-stderr](stdout-stderr.md)  
 - [redireccion](redireccion.md)  
-- [pipes](pipes.md)  
+- [pipes](pipes.md)
+
+
+

@@ -60,8 +60,15 @@ mkdir: cannot create directory ‘a/b/c’: No such file or directory
 
 - Faltan carpetas intermedias: usa `mkdir -p a/b/c`.
 
+## Siguiente
+
+[touch](touch.md)
+
 ## Relacionados
 
 - [rmdir](rmdir.md) — borrar directorios vacíos
 - [rm](rm.md) — borrar con contenido (`rm -r`)
 - [touch](touch.md) — crear ficheros dentro del directorio
+
+
+

@@ -177,6 +177,11 @@ docker images
 - `docker start` en un nombre que nunca existió → error; `start` no descarga ni crea, solo reanima uno ya creado con `run`.
 - Hacer `docker stop $(docker ps -q)` en un servidor ajeno sin pensarlo: paras **todos** los contenedores en marcha.
 
+
+## Siguiente
+
+[/   (o el WORKDIR de la imagen)](docker-exec.md)
+
 ## Relacionados
 
 - Anterior: [docker-ps-logs](docker-ps-logs.md)  

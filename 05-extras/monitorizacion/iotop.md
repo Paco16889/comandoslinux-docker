@@ -152,6 +152,11 @@ Netlink error / Permission denied / Configura el kernel…
 - Culpar al disco cuando el cuello de botella es CPU/red: combina con `htop` y `nvtop` si aplica.  
 - En SSD los picos son normales al instalar o compilar; mira si **se mantiene** alto.
 
+
+## Siguiente
+
+[Debian / Ubuntu / Linux Mint](btop.md)
+
 ## Relacionados
 
 - [top/htop](../../02-sistema/06-procesos/top-htop.md) — CPU/RAM  

@@ -126,8 +126,15 @@ grep: <directorio>: Is a directory
 
 - Sin `-r`, `grep` no entra en carpetas.
 
+## Siguiente
+
+[sort](sort.md)
+
 ## Relacionados
 
 - [less](less.md) — leer y buscar interactivamente (`/<texto>`)
 - [find](../02-ficheros-directorios/find.md) — buscar por nombre de fichero, no por contenido
 - [wc](wc.md) — contar líneas del resultado (`grep ... \| wc -l`)
+
+
+

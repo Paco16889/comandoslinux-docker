@@ -140,8 +140,15 @@ Lo practicamos más en [redireccion](redireccion.md) y [combinar-errores](combin
 - Ver un error en pantalla y pensar que el pipe lo “comió”: el pipe no lleva stderr por defecto.  
 - Confundir el número `2` con “dos ficheros”: es el **canal** stderr.
 
+## Siguiente
+
+[Redirección (`>`, `>>`, `<`)](redireccion.md)
+
 ## Relacionados
 
 - [redireccion](redireccion.md)  
 - [combinar-errores](combinar-errores.md)  
-- [pipes](pipes.md)  
+- [pipes](pipes.md)
+
+
+

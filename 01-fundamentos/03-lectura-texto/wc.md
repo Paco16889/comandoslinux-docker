@@ -78,8 +78,15 @@ wc -L <fichero>
 - `wc -l` en un fichero sin salto final en la última línea: el conteo puede sorprender (la última línea a veces no cuenta igual según el caso).
 - Contar ficheros con `ls \| wc -l`: los ocultos y el formato de `ls` afectan; para contar ficheros suele ser más fiable `find`.
 
+## Siguiente
+
+[grep](grep.md)
+
 ## Relacionados
 
 - [cat](cat.md) — ver el contenido que estás contando
 - [grep](grep.md) — contar coincidencias con `-c`
 - [find](../02-ficheros-directorios/find.md) — listar ficheros para contarlos
+
+
+

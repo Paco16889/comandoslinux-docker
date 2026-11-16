@@ -82,8 +82,15 @@ ls -ld <directorio>
 - Confundir el tamaño de un directorio en `ls -l` con el espacio total de su contenido.
 - `ls <directorio>` vs `ls -ld <directorio>`: el primero lista dentro; el segundo describe la carpeta.
 
+## Siguiente
+
+[cd](cd.md)
+
 ## Relacionados
 
 - [pwd](pwd.md) — saber en qué directorio estás
 - [cd](cd.md) — entrar en otro directorio
 - Ver también [02-ficheros-directorios](../02-ficheros-directorios/)
+
+
+

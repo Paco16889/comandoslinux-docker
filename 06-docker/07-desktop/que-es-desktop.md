@@ -83,10 +83,17 @@ desktop-linux   unix:///home/<usuario>/.docker/desktop/docker.sock  ← Desktop
 
 Detalle y cambio de contexto: [engine-y-desktop-juntos](engine-y-desktop-juntos.md).
 
+## Siguiente
+
+[Instalación de Docker Desktop (Linux)](instalacion-desktop.md)
+
 ## Relacionados
 
 - Engine: [que-es-docker](../00-introduccion/que-es-docker.md) · [instalacion-engine](../00-introduccion/instalacion-engine.md)  
 - Siguiente: [instalacion-desktop](instalacion-desktop.md)  
 - Convivencia: [engine-y-desktop-juntos](engine-y-desktop-juntos.md)  
 - [README de la carpeta](README.md)  
-- Doc oficial: [Desktop on Linux](https://docs.docker.com/desktop/setup/install/linux/) · [Desktop vs Engine](https://docs.docker.com/get-started/docker-overview/#docker-desktop-and-the-cli) · [License](https://docs.docker.com/subscription/desktop-license/)  
+- Doc oficial: [Desktop on Linux](https://docs.docker.com/desktop/setup/install/linux/) · [Desktop vs Engine](https://docs.docker.com/get-started/docker-overview/#docker-desktop-and-the-cli) · [License](https://docs.docker.com/subscription/desktop-license/)
+
+
+

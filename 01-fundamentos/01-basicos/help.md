@@ -55,7 +55,14 @@ type <comando>
 - Buscar `man cd` y encontrar poco útil: `cd` es builtin → `help cd`.
 - Ejecutar `help ls`: `ls` no es builtin; usa `man ls`.
 
+## Siguiente
+
+[history](history.md)
+
 ## Relacionados
 
 - [man](man.md) — manuales de programas externos
 - [history](history.md) — ejemplo típico de builtin
+
+
+

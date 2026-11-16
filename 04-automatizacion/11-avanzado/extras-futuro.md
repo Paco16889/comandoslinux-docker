@@ -19,3 +19,8 @@ El núcleo es **01–11**. Lo concreto vive en **[05-extras](../../05-extras/)**
 - **monitorizacion/** — observar el sistema  
 
 **05-extras está documentado al completo.** Para ampliar más adelante, usa la misma estructura ([\_plantilla-extra.md](../../05-extras/_plantilla-extra.md)).
+
+## Siguiente
+
+[sensors (lm-sensors)](../../05-extras/monitorizacion/sensors.md)
+

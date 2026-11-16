@@ -210,10 +210,17 @@ docker rm -f web-hc always-bad web-df 2>/dev/null
 cd ~/compose-health 2>/dev/null && docker compose down 2>/dev/null
 ```
 
+## Siguiente
+
+[Límites de recursos (`memory`, `cpus`)](limites-recursos.md)
+
 ## Relacionados
 
 - Compose / depends_on: [compose-servicios](../05-compose/compose-servicios.md) · [compose-basico](../05-compose/compose-basico.md)  
 - Anterior: [multi-stage](multi-stage.md)  
 - Siguiente: [limites-recursos](limites-recursos.md)  
 - [README de la carpeta](README.md)  
-- Doc oficial: [HEALTHCHECK](https://docs.docker.com/reference/dockerfile/#healthcheck) · [Compose healthcheck](https://docs.docker.com/reference/compose-file/services/#healthcheck)  
+- Doc oficial: [HEALTHCHECK](https://docs.docker.com/reference/dockerfile/#healthcheck) · [Compose healthcheck](https://docs.docker.com/reference/compose-file/services/#healthcheck)
+
+
+

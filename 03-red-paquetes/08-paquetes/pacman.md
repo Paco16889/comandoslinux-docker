@@ -114,8 +114,15 @@ error: target not found: <paquete>
 - Actualizaciones parciales (`-Sy` + instalar sin `-u`) pueden romper el sistema en Arch. La costumbre sana es **`pacman -Syu`**.
 - Copiar comandos AUR sin entenderlos: deja AUR para más adelante.
 
+## Siguiente
+
+[snap](snap.md)
+
 ## Relacionados
 
 - [dnf](dnf.md) / [apt](apt.md) — otros gestores  
 - [flatpak](flatpak.md) — también se puede usar en Arch  
-- [conceptos](conceptos.md) — rolling release = actualizaciones frecuentes  
+- [conceptos](conceptos.md) — rolling release = actualizaciones frecuentes
+
+
+

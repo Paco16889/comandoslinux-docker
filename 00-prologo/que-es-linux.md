@@ -76,8 +76,15 @@ Los **comandos** de esta guía valen en ambos; lo que cambia es el entorno alred
 - Creer que hace falta ser programador: esta guía parte de cero.  
 - Buscar `C:\` en Linux: aquí las rutas empiezan por `/`.
 
+## Siguiente
+
+[El sistema de ficheros: todo cuelga de `/`](sistema-de-ficheros.md)
+
 ## Relacionados
 
 - [sistema-de-ficheros](sistema-de-ficheros.md)  
 - [distros](distros.md)  
-- [01-fundamentos](../01-fundamentos/)  
+- [01-fundamentos](../01-fundamentos/)
+
+
+

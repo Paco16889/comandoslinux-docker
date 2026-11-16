@@ -76,8 +76,15 @@ cat <fichero> | tail -n 15
 - Sin permiso en `/var/log/...`: prueba con tu usuario o `sudo tail -f <fichero>` solo si corresponde.
 - Confundir `-n 20` (últimas 20) con `-n +20` (desde la 20 hasta el final).
 
+## Siguiente
+
+[wc](wc.md)
+
 ## Relacionados
 
 - [head](head.md) — primeras líneas
 - [less](less.md) — navegar y buscar (`less +F` también puede seguir)
 - [grep](grep.md) — filtrar líneas de un log
+
+
+

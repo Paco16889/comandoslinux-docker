@@ -160,6 +160,11 @@ docker rm -f web-bridge web-sin-p web-ok web-multi 2>/dev/null
 - Pensar que la IP interna del contenedor es estable para tutoriales largos → mejor **nombre + red de usuario** (siguientes ficheros).
 - Abrir `http://127.0.0.1:80` cuando mapeaste `8080:80` → en el host es **8080**.
 
+
+## Siguiente
+
+[lab bridge](docker-network.md)
+
 ## Relacionados
 
 - Puertos en fundamentos: [docker-inspect-port](../01-fundamentos/docker-inspect-port.md) · [docker-pull-run](../01-fundamentos/docker-pull-run.md)  

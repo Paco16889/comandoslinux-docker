@@ -137,8 +137,15 @@ Para aprender hoy, prioriza `ss`.
 - Confundir puerto remoto y local: mira las columnas `Local Address` y `Peer Address`.
 - Pensar que “puerto cerrado” en `ss` significa lo mismo que en un escaneo externo: `ss` mira **tu** máquina.
 
+## Siguiente
+
+[curl](curl.md)
+
 ## Relacionados
 
 - [ip](ip.md) — interfaces y rutas
 - [ssh](ssh.md) — servicio típico en el puerto 22
 - [ping](ping.md) — conectividad básica (no muestra puertos)
+
+
+

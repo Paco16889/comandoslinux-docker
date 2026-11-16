@@ -180,6 +180,10 @@ docker rm -f limitado 2>/dev/null
 cd ~/compose-limits 2>/dev/null && docker compose down 2>/dev/null
 ```
 
+## Siguiente
+
+[Políticas de reinicio (`--restart`)](restart-policies.md)
+
 ## Relacionados
 
 - Anterior: [healthcheck](healthcheck.md)  
@@ -187,4 +191,7 @@ cd ~/compose-limits 2>/dev/null && docker compose down 2>/dev/null
 - Run: [docker-pull-run](../01-fundamentos/docker-pull-run.md)  
 - Siguiente: [restart-policies](restart-policies.md) · [seguridad-basica](seguridad-basica.md)  
 - [README de la carpeta](README.md)  
-- Doc oficial: [Resource constraints](https://docs.docker.com/engine/containers/resource_constraints/)  
+- Doc oficial: [Resource constraints](https://docs.docker.com/engine/containers/resource_constraints/)
+
+
+

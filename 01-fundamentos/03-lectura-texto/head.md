@@ -82,8 +82,15 @@ head: cannot open '<fichero>' for reading: No such file or directory
 
 - Confundir `head` con `tail`: `head` es el **principio**, `tail` el **final**.
 
+## Siguiente
+
+[tail](tail.md)
+
 ## Relacionados
 
 - [tail](tail.md) — últimas líneas
 - [less](less.md) — recorrer el fichero entero
 - [cat](cat.md) — todo el contenido
+
+
+

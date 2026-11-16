@@ -154,8 +154,15 @@ No sensors found!
 - Comparar temps entre dos PCs distintos como si fueran la misma escala: cada modelo es diferente.  
 - Asustarse por un pico corto bajo carga: mira si baja al dejar de cargar la CPU.
 
+## Siguiente
+
+[Debian / Ubuntu / Linux Mint](ncdu-du.md)
+
 ## Relacionados
 
 - [top/htop/nvtop](../../02-sistema/06-procesos/top-htop.md) — uso de CPU/GPU  
 - [free/uptime](../../02-sistema/06-procesos/free-uptime.md) — RAM y carga  
-- [apt](../../03-red-paquetes/08-paquetes/apt.md) — instalación en Mint  
+- [apt](../../03-red-paquetes/08-paquetes/apt.md) — instalación en Mint
+
+
+

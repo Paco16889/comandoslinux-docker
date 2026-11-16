@@ -125,8 +125,15 @@ kill: (<PID>): No such process
 - Empezar siempre con `-9`: mejor `kill <PID>` primero; `-9` solo si no queda otra.
 - Matar procesos del sistema al azar puede dejar la máquina inestable. Si no reconoces el comando, no lo mates.
 
+## Siguiente
+
+[pkill y killall](pkill-killall.md)
+
 ## Relacionados
 
 - [ps](ps.md) — encontrar el `<PID>`
 - [pkill-killall](pkill-killall.md) — matar por nombre (sin copiar el PID a mano)
 - [jobs](jobs.md) — procesos lanzados desde *esta* terminal
+
+
+

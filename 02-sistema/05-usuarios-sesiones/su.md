@@ -90,8 +90,15 @@ su: Authentication failure
 
 - Usar `su root` sin `-` y encontrar comandos “no found”: PATH incompleto → prueba `su -`.
 
+## Siguiente
+
+[sudo](sudo.md)
+
 ## Relacionados
 
 - [sudo](sudo.md) — privilegios sin contraseña de root (configuración típica)
 - [whoami](whoami.md) — verificar quién eres tras el cambio
 - [exit-logout](exit-logout.md) — volver a la sesión anterior
+
+
+

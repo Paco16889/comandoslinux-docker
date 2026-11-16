@@ -187,6 +187,11 @@ docker compose down
 - Confundir `down` con `stop`: `stop` deja contenedores; `down` los **elimina** (hay que `up` de nuevo).
 - `permission denied` al socket → igual que siempre: grupo `docker` o `sudo` (ver install).
 
+
+## Siguiente
+
+[Hola Compose](compose-servicios.md)
+
 ## Relacionados
 
 - Anterior: [que-es-compose](que-es-compose.md)  

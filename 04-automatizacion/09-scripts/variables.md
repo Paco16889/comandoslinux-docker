@@ -149,7 +149,14 @@ echo $ficheros_con_espacios
 
 - Confundir `$nombre` (valor) con `nombre` (texto literal).
 
+## Siguiente
+
+[Argumentos del script (`$1`, `$2`, `$@`…)](argumentos.md)
+
 ## Relacionados
 
 - [argumentos](argumentos.md) — variables especiales `$1`, `$#`…  
-- [primer-script](primer-script.md)  
+- [primer-script](primer-script.md)
+
+
+

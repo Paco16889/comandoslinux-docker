@@ -83,8 +83,15 @@ rm -rf /
 
 Mientras aprendes, prefieres `rm -i` o `rm -ri`.
 
+## Siguiente
+
+[rmdir](rmdir.md)
+
 ## Relacionados
 
 - [rmdir](rmdir.md) — solo directorios vacíos (más seguro para carpetas)
 - [mv](mv.md) — “quitar de aquí” sin borrar (mover a otro sitio)
 - [ls](../01-basicos/ls.md) — revisar antes de borrar
+
+
+

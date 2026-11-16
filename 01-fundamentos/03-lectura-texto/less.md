@@ -101,8 +101,15 @@ less -i <fichero>
 - Confundir con `more`: `less` permite ir atrás; `more` es más limitado.
 - Buscar `/<texto>` y no encontrar nada: prueba `-i` o revisa mayúsculas/acentos.
 
+## Siguiente
+
+[head](head.md)
+
 ## Relacionados
 
 - [cat](cat.md) — volcar todo de golpe
 - [head](head.md) / [tail](tail.md) — un fragmento sin visor
 - [grep](grep.md) — filtrar antes de leer
+
+
+

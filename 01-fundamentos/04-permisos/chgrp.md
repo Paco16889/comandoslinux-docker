@@ -113,8 +113,15 @@ chgrp: changing group of '<ruta>': Operation not permitted
 
 - Confundir `<usuario>` y `<grupo>`: pueden llamarse igual (`<usuario>:<usuario>`), pero no siempre.
 
+## Siguiente
+
+[umask](umask.md)
+
 ## Relacionados
 
 - [chown](chown.md) — dueño y/o grupo
 - [chmod](chmod.md) — dar `g+w` / `g+rx` tras cambiar el grupo
 - [id](id.md) — ver membresía de grupos
+
+
+

@@ -143,6 +143,11 @@ docker run --rm \
 - Borrar el contenedor y creer que borraste el volume → el volume nombrado **sigue** hasta `docker volume rm`.
 - Montar encima de un directorio que la imagen ya traía lleno → ves el contenido del mount, no el de la imagen (a veces confunde).
 
+
+## Siguiente
+
+[/var/lib/docker/volumes/datos-web/_data](volumes.md)
+
 ## Relacionados
 
 - Siguiente: [volumes](volumes.md) — crear, listar, montar, borrar volumes  

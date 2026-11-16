@@ -70,8 +70,15 @@ mv: cannot move '<origen>' to '<destino>': No such file or directory
 - Confundir `mv` con `cp`: `mv` **no** deja copia en el origen.
 - Sobrescribir sin querer: usa `mv -i` mientras aprendes.
 
+## Siguiente
+
+[rm](rm.md)
+
 ## Relacionados
 
 - [cp](cp.md) — copiar (deja el original)
 - [rm](rm.md) — borrar
 - [mkdir](mkdir.md) — crear destino si falta
+
+
+

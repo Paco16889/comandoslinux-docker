@@ -82,8 +82,15 @@ hostname: Name or service not known
 - Cambiar solo con `hostname <nombre>` (sin `hostnamectl`) puede ser **temporal** hasta el próximo reinicio, según distro.
 - Poner espacios o caracteres raros en el nombre: mejor letras, números y guiones (`portatil-ana`).
 
+## Siguiente
+
+[ss](ss.md)
+
 ## Relacionados
 
 - [ip](ip.md) — direcciones IP
 - [ping](ping.md) — `ping $(hostname)` en redes locales a veces ayuda a probar
 - [ssh](ssh.md) — te conectarás a `usuario@hostname` o a una IP
+
+
+

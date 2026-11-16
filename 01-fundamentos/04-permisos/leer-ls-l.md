@@ -142,8 +142,15 @@ ls -la <directorio>
 - Creer que `r` en un directorio permite `cd`: para entrar hace falta `x`.
 - En symlinks, obsesionarse con `lrwxrwxrwx`: lo importante suele ser el destino.
 
+## Siguiente
+
+[chmod](chmod.md)
+
 ## Relacionados
 
 - [chmod](chmod.md) — cambiar esos `rwx`
 - [chown](chown.md) — cambiar `<usuario>` / `<grupo>`
 - [ls](../01-basicos/ls.md) — opciones de listado
+
+
+

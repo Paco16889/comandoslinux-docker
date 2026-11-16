@@ -153,6 +153,11 @@ sudo apt install btop
 - Abrir `bashtop` y que vaya lento: es Bash; pasa a `btop`.  
 - Buscar GPU detallada en btop: para NVIDIA/AMD a fondo usa también [nvtop](nvtop.md).
 
+
+## Siguiente
+
+[Debian / Ubuntu / Linux Mint](nvtop.md)
+
 ## Relacionados
 
 - [top/htop/nvtop](../../02-sistema/06-procesos/top-htop.md)  

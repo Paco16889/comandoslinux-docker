@@ -130,8 +130,15 @@ ps -e --no-headers | wc -l
 - Confundir el **PID** con el nombre: para `kill` necesitas el número (o usa `pkill` con el nombre).
 - Asustarse por cientos de líneas en `ps aux`: es normal en un sistema moderno.
 
+## Siguiente
+
+[top, htop y nvtop](top-htop.md)
+
 ## Relacionados
 
 - [top-htop](top-htop.md) — lista que se actualiza sola
 - [kill](kill.md) — terminar usando el `<PID>`
 - [pkill-killall](pkill-killall.md) — terminar por nombre
+
+
+

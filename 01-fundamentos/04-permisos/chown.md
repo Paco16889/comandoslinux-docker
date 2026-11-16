@@ -99,9 +99,16 @@ chown: invalid group: ‘<usuario>:<grupo>’
 
 - Hacer `chown -R` sobre `/` o rutas críticas: puede romper el sistema. Limita siempre a `<directorio>` concreto.
 
+## Siguiente
+
+[chgrp](chgrp.md)
+
 ## Relacionados
 
 - [chgrp](chgrp.md) — solo grupo
 - [chmod](chmod.md) — permisos rwx
 - [id](id.md) — ver usuarios/grupos válidos
 - [sudo](sudo.md) — ejecutar con privilegios
+
+
+

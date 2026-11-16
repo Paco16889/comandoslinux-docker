@@ -245,9 +245,16 @@ scp <fichero> <usuario>@<IP>:<directorio>/
 
 Ver [ssh](../../03-red-paquetes/07-red/ssh.md) y [scp](../../03-red-paquetes/07-red/scp.md).
 
+## Siguiente
+
+[Debian / Ubuntu / Linux Mint](nginx.md)
+
 ## Relacionados
 
 - [systemctl](../../04-automatizacion/11-avanzado/systemctl.md)  
 - [apt](../../03-red-paquetes/08-paquetes/apt.md)  
 - [useradd / adduser](../../02-sistema/05-usuarios-sesiones/useradd-usermod-userdel.md)  
-- [ss](../../03-red-paquetes/07-red/ss.md) — puerto 21  
+- [ss](../../03-red-paquetes/07-red/ss.md) — puerto 21
+
+
+

@@ -84,8 +84,15 @@ clear
 - Confundir `clear` con borrar ficheros: no borra nada del disco.  
 - Usar `reset` por costumbre: es más agresivo; reserva para cuando la terminal está mal.
 
+## Siguiente
+
+[echo](echo.md)
+
 ## Relacionados
 
 - [history](history.md) — ver comandos anteriores  
 - [pwd](pwd.md) — orientación tras limpiar la pantalla  
-- [cd](cd.md) — el directorio no cambia con `clear`  
+- [cd](cd.md) — el directorio no cambia con `clear`
+
+
+

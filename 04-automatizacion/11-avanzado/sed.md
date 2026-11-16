@@ -97,8 +97,15 @@ diff <fichero>.bak <fichero>
 - Usar `/` dentro del patrón: cambia el separador → `sed 's|#include|# import|'`  
 - Editar con `-i` sin backup en ficheros importantes.
 
+## Siguiente
+
+[awk (introducción)](awk.md)
+
 ## Relacionados
 
 - [grep](../../01-fundamentos/03-lectura-texto/grep.md) — buscar  
 - [awk](awk.md) — más lógica por campos  
-- [pipes](../10-pipes-redireccion/pipes.md)  
+- [pipes](../10-pipes-redireccion/pipes.md)
+
+
+

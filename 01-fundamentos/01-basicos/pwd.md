@@ -100,8 +100,15 @@ pwd
 - Pensar que `pwd` siempre muestra el home: muestra **donde estás ahora**.  
 - Ignorar `-P` cuando trabajas con symlinks y “no entiendes” en qué carpeta real estás.
 
+## Siguiente
+
+[ls](ls.md)
+
 ## Relacionados
 
 - [cd](cd.md) — cambiar de directorio  
 - [ls](ls.md) — listar el contenido del directorio actual  
-- [ln](../02-ficheros-directorios/ln.md) — crear enlaces  
+- [ln](../02-ficheros-directorios/ln.md) — crear enlaces
+
+
+

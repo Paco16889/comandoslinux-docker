@@ -104,8 +104,15 @@ ls | wc -l
 - Poner espacios raros no rompe el `|`, pero un `|` mal colocado sí: cada lado debe ser un comando válido.  
 - `comando1 | comando2 > fichero`: el fichero recibe la salida de **comando2** (el último del tramo redirigido).
 
+## Siguiente
+
+[Redirigir errores (`2>`, `2>&1`, `&>`)](combinar-errores.md)
+
 ## Relacionados
 
 - [redireccion](redireccion.md)  
 - [combinar-errores](combinar-errores.md)  
-- [grep](../../01-fundamentos/03-lectura-texto/grep.md) · [less](../../01-fundamentos/03-lectura-texto/less.md)  
+- [grep](../../01-fundamentos/03-lectura-texto/grep.md) · [less](../../01-fundamentos/03-lectura-texto/less.md)
+
+
+

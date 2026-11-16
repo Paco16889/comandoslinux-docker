@@ -164,6 +164,10 @@ docker pull nginx:1.27-alpine
 docker rm -f web-ro web-local 2>/dev/null
 ```
 
+## Siguiente
+
+[Registry y `docker login`](registry-login.md)
+
 ## Relacionados
 
 - Anterior: [restart-policies](restart-policies.md)  
@@ -171,4 +175,7 @@ docker rm -f web-ro web-local 2>/dev/null
 - Volumes / bind: [bind-mounts](../03-volumes/bind-mounts.md)  
 - UFW: [ufw](../../05-extras/seguridad/ufw.md)  
 - [README de la carpeta](README.md)  
-- Doc oficial: [Docker security](https://docs.docker.com/engine/security/) · [Dockerfile USER](https://docs.docker.com/reference/dockerfile/#user) · [docker run --user](https://docs.docker.com/reference/cli/docker/container/run/#user)  
+- Doc oficial: [Docker security](https://docs.docker.com/engine/security/) · [Dockerfile USER](https://docs.docker.com/reference/dockerfile/#user) · [docker run --user](https://docs.docker.com/reference/cli/docker/container/run/#user)
+
+
+

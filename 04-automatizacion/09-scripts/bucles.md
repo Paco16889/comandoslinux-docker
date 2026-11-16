@@ -186,8 +186,15 @@ bash break_continue.sh
 - Bucle infinito en `while`: asegúrate de que la condición acaba cambiando.  
 - Olvidar `do` / `done`.
 
+## Siguiente
+
+[Códigos de salida (`$?`, `exit`)](codigos-salida.md)
+
 ## Relacionados
 
 - [condicionales](condicionales.md)  
 - [argumentos](argumentos.md)  
-- Más adelante: pipes para combinar con `while read`  
+- Más adelante: pipes para combinar con `while read`
+
+
+

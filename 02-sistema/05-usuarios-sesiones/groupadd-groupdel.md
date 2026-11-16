@@ -134,8 +134,15 @@ id
 exit
 ```
 
+## Siguiente
+
+[exit y logout](exit-logout.md)
+
 ## Relacionados
 
 - [useradd-usermod-userdel](useradd-usermod-userdel.md) — `usermod -aG`
 - [chgrp](../../01-fundamentos/04-permisos/chgrp.md) — grupo de ficheros
 - [id](../../01-fundamentos/04-permisos/id.md) — comprobar membresía
+
+
+

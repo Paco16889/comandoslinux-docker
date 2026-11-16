@@ -146,8 +146,15 @@ error: No remote refs found similar to ‘...’
 
 - Instalar la misma app por `apt` y por Flatpak: puedes tener **dos** (nombres parecidos en el menú). Elige una vía para no liar actualizaciones.
 
+## Siguiente
+
+[dnf](dnf.md)
+
 ## Relacionados
 
 - [apt](apt.md) — base del sistema en Mint  
 - [snap](snap.md) — otro formato similar en idea  
-- [conceptos](conceptos.md) — por qué hay varios canales  
+- [conceptos](conceptos.md) — por qué hay varios canales
+
+
+

@@ -103,8 +103,15 @@ grep "<texto>" <fichero> > coincidencias.txt
 - Pensar que `>` guarda también los errores: no; solo stdout (ver [combinar-errores](combinar-errores.md)).  
 - Redirigir y luego no encontrar el fichero: mira en el directorio actual (`pwd` / `ls`).
 
+## Siguiente
+
+[Pipes (`|`)](pipes.md)
+
 ## Relacionados
 
 - [stdout-stderr](stdout-stderr.md)  
 - [pipes](pipes.md)  
-- [echo](../../01-fundamentos/01-basicos/echo.md)  
+- [echo](../../01-fundamentos/01-basicos/echo.md)
+
+
+

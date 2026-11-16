@@ -186,6 +186,11 @@ NT_STATUS_BAD_NETWORK_NAME
 - Windows no ve el PC: firewall, o prueba directo por IP `\\192.168.x.x\share`.  
 - Editar `smb.conf` sin `testparm` y dejar el servicio roto.
 
+
+## Siguiente
+
+[Debian / Ubuntu / Linux Mint](fail2ban.md)
+
 ## Relacionados
 
 - [vsftpd](vsftpd.md) — otra forma de compartir ficheros (FTP)  

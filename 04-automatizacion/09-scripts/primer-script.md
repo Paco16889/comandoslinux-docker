@@ -124,8 +124,15 @@ Verás el error de `ls`, pero el script **sigue** con el siguiente `echo`, salvo
 - Guardar el fichero sin extensión: la extensión `.sh` es costumbre, no magia; lo importante es el contenido y el shebang.  
 - Escribir comandos en el editor y no guardar.
 
+## Siguiente
+
+[Variables en Bash](variables.md)
+
 ## Relacionados
 
 - [variables](variables.md) — el siguiente nivel  
 - [sh-vs-bash-vs-ejecutable](sh-vs-bash-vs-ejecutable.md)  
-- [echo](../../01-fundamentos/01-basicos/echo.md) · [date](../../01-fundamentos/01-basicos/date.md)  
+- [echo](../../01-fundamentos/01-basicos/echo.md) · [date](../../01-fundamentos/01-basicos/date.md)
+
+
+

@@ -136,8 +136,15 @@ Permission denied
 
 - Escribir `ssh <destino>@<usuario>` al revés: el orden es `<usuario>@<destino>`.
 
+## Siguiente
+
+[scp](scp.md)
+
 ## Relacionados
 
 - [scp](scp.md) — copiar ficheros con el mismo canal
 - [ss](ss.md) — ver el puerto 22
 - [exit-logout](../../02-sistema/05-usuarios-sesiones/exit-logout.md) — salir de la sesión
+
+
+

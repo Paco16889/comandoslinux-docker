@@ -175,8 +175,15 @@ echo "$SHELL"
 - Pensar que “si no es Ubuntu no es Linux”.  
 - Actualizar a lo loco en Arch el primer día sin leer (`pacman -Syu` con calma).
 
+## Siguiente
+
+[Cómo usar esta guía](como-usar-esta-guia.md)
+
 ## Relacionados
 
 - [08-paquetes](../03-red-paquetes/08-paquetes/)  
 - [que-es-linux](que-es-linux.md)  
-- [README distros](../README.md#distros-en-los-ejemplos)  
+- [README distros](../README.md#distros-en-los-ejemplos)
+
+
+

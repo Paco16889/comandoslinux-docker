@@ -79,8 +79,15 @@ cp: cannot create regular file '<destino>': Permission denied
 
 - `cp <fichero> <directorio>` si `<directorio>` no existe: puede crear un fichero con ese nombre en lugar de fallar como esperabas. Comprueba con `ls`.
 
+## Siguiente
+
+[mv](mv.md)
+
 ## Relacionados
 
 - [mv](mv.md) — mover o renombrar (no deja copia)
 - [rm](rm.md) — borrar tras copiar si hacía falta
 - [ls](../01-basicos/ls.md) — verificar el resultado
+
+
+

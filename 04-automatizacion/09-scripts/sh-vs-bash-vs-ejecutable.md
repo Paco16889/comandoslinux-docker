@@ -164,8 +164,15 @@ bash: hola.sh: command not found
 
 - Script de Bash ejecutado con `sh` (dash).
 
+## Siguiente
+
+[Shebang (`#!`)](shebang.md)
+
 ## Relacionados
 
 - [shebang](shebang.md) — la primera línea  
 - [primer-script](primer-script.md) — crear uno desde cero  
-- [source-y-permisos](source-y-permisos.md) — `chmod` y `source`  
+- [source-y-permisos](source-y-permisos.md) — `chmod` y `source`
+
+
+

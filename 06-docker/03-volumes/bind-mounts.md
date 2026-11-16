@@ -204,6 +204,11 @@ docker rm -f web-bind web-bind-sel web-conf 2>/dev/null
 - Borrar ficheros **desde** el contenedor en un bind de escritura → también los borras en el host (es la misma carpeta).
 - Esperar que `docker rm` borre tu carpeta del home → **no**: el bind es tuyo; solo se desengancha.
 
+
+## Siguiente
+
+[host:8080  →  contenedor:80](../04-networks/conceptos-red.md)
+
 ## Relacionados
 
 - Anterior: [volumes](volumes.md) · [conceptos-datos](conceptos-datos.md)  

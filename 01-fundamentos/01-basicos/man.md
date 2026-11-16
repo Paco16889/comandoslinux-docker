@@ -93,7 +93,14 @@ No manual entry for <comando>
 - Sección equivocada: prueba `man -a <comando>`.
 - Quedarse atrapado en el manual: pulsa `q`.
 
+## Siguiente
+
+[help](help.md)
+
 ## Relacionados
 
 - [help](help.md) — ayuda de builtins de la shell
 - `<comando> --help` — resumen corto de muchos programas
+
+
+

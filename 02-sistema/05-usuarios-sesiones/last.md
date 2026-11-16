@@ -100,8 +100,15 @@ last: /var/log/wtmp: No such file or directory
 sudo last -f /var/log/wtmp.1
 ```
 
+## Siguiente
+
+[su](su.md)
+
 ## Relacionados
 
 - [who-w-users](who-w-users.md) — sesiones activas ahora
 - [whoami](whoami.md) — usuario actual
 - [exit-logout](exit-logout.md) — fin de sesión que luego verás en `last`
+
+
+

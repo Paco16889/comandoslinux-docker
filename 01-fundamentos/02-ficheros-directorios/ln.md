@@ -76,8 +76,15 @@ ln: failed to create symbolic link '<enlace>': File exists
 
 - Borrar el enlace simbólico **no** borra el fichero original (`rm <enlace>` solo quita el atajo).
 
+## Siguiente
+
+[find](find.md)
+
 ## Relacionados
 
 - [ls](../01-basicos/ls.md) — `ls -l` muestra `->` en symlinks
 - [rm](rm.md) — eliminar un enlace
 - [cp](cp.md) — copiar de verdad (otro fichero independiente)
+
+
+

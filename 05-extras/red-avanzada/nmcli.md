@@ -294,6 +294,11 @@ Not authorized / Insufficient privileges
 - Poner IP manual mal y perder red: ten a mano otra forma de conectar (cable, panel gráfico) o `ipv4.method auto`.  
 - Escribir la contraseña Wi‑Fi en el historial de bash: queda en `history`. En equipos compartidos ten cuidado (o usa el método interactivo del applet gráfico).
 
+
+## Siguiente
+
+[Debian / Ubuntu / Linux Mint](nmap.md)
+
 ## Relacionados
 
 - [ip](../../03-red-paquetes/07-red/ip.md) · [ping](../../03-red-paquetes/07-red/ping.md) · [hostname](../../03-red-paquetes/07-red/hostname.md)  

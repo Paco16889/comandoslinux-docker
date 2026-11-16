@@ -96,8 +96,15 @@ last -n 5 <usuario>
 - Cerrar la terminal con la X: suele matar la sesión, pero no siempre es equivalente a un logout limpio en todos los entornos.
 - En scripts, `exit` termina el script (o la shell que lo interpreta); no “cierra Linux”.
 
+## Siguiente
+
+[ps](../06-procesos/ps.md)
+
 ## Relacionados
 
 - [su](su.md) / [sudo](sudo.md) — shells anidadas de las que sales con `exit`
 - [who-w-users](who-w-users.md) — ver sesiones activas
 - [last](last.md) — historial de cierres/logins
+
+
+

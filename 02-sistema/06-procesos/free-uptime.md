@@ -126,8 +126,15 @@ ps aux --sort=-%mem | head
 - Comparar load average entre máquinas sin mirar cuántos núcleos tienen.
 - Confundir `free` el comando con liberar memoria a la fuerza: este comando solo **informa**.
 
+## Siguiente
+
+[ping](../../03-red-paquetes/07-red/ping.md)
+
 ## Relacionados
 
 - [top-htop](top-htop.md) — CPU/MEM en vivo
 - [ps](ps.md) — quién consume recursos
 - [who-w-users](../05-usuarios-sesiones/who-w-users.md) — `w` también enseña carga
+
+
+

@@ -110,8 +110,15 @@ sudo: <comando>: command not found
 
 - El comando no está en el `PATH` que usa sudo, o no está instalado.
 
+## Siguiente
+
+[whoami](../../02-sistema/05-usuarios-sesiones/whoami.md)
+
 ## Relacionados
 
 - [chown](chown.md) / [chmod](chmod.md) — operaciones típicas con sudo
 - [id](id.md) — quién eres antes y después (`sudo id`)
 - Carpeta siguiente del temario: [05-usuarios-sesiones](../../02-sistema/05-usuarios-sesiones/)
+
+
+

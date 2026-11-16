@@ -83,8 +83,15 @@ grep -q "<texto>" <fichero> && echo "Encontrado" || echo "No está"
 - Usar `&&` pensando que es un pipe: no pasa datos; solo decide si ejecutar lo siguiente.  
 - `comando1 && comando2 || comando3` sin claridad: cuando dude, usa `if/else`.
 
+## Siguiente
+
+[tee](tee.md)
+
 ## Relacionados
 
 - [codigos-salida](../09-scripts/codigos-salida.md)  
 - [condicionales](../09-scripts/condicionales.md)  
-- [pipes](pipes.md)  
+- [pipes](pipes.md)
+
+
+
