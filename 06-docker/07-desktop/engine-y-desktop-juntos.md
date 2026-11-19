@@ -125,7 +125,7 @@ Scripts que asumen el socket del sistema pueden necesitar `DOCKER_HOST` (doc: *U
 
 ## Siguiente
 
-Fin del temario. Índice: [README](../../README.md)
+[07 — Ejercicios](../../07-ejercicios/README.md)
 
 ## Relacionados
 

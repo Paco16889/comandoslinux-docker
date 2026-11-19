@@ -13,7 +13,8 @@ Sigue el orden de los números: primero el bloque, después las carpetas interna
 3. **[Red y paquetes](03-red-paquetes/)** — conectividad e instalación de software  
 4. **[Automatización](04-automatizacion/)** — scripts, pipes y herramientas avanzadas  
 5. **[Extras](05-extras/)** — herramientas/servicios concretos (después del núcleo)  
-6. **[Docker](06-docker/)** — Engine/CLI + Desktop opcional (fuera de extras)
+6. **[Docker](06-docker/)** — Engine/CLI + Desktop opcional (fuera de extras)  
+7. **[Ejercicios](07-ejercicios/)** — prácticas por bloque (después de estudiar)
 
 Antes de teclear comandos, lee también: [Cómo leer la sintaxis](#cómo-leer-la-sintaxis-muy-importante).
 
@@ -48,15 +49,18 @@ comandos linux/
 │   ├── seguridad/
 │   └── red-avanzada/
 │
-└── 06-docker/              # Engine/CLI + Desktop opcional
-    ├── 00-introduccion/    # qué es + instalación Engine
-    ├── 01-fundamentos/
-    ├── 02-imagenes-dockerfile/
-    ├── 03-volumes/
-    ├── 04-networks/
-    ├── 05-compose/
-    ├── 06-avanzado/
-    └── 07-desktop/         # Docker Desktop (Linux, opcional)
+├── 06-docker/              # Engine/CLI + Desktop opcional
+│   ├── 00-introduccion/    # qué es + instalación Engine
+│   ├── 01-fundamentos/
+│   ├── 02-imagenes-dockerfile/
+│   ├── 03-volumes/
+│   ├── 04-networks/
+│   ├── 05-compose/
+│   ├── 06-avanzado/
+│   └── 07-desktop/         # Docker Desktop (Linux, opcional)
+│
+└── 07-ejercicios/          # prácticas + soluciones
+    └── soluciones/
 ```
 
 ## Bloques
@@ -70,6 +74,7 @@ comandos linux/
 | [04-automatizacion](04-automatizacion/) | scripts, pipes/redirección, avanzado | Avanzado |
 | [05-extras](05-extras/) | monitorización, servidores, seguridad, red avanzada | Extra |
 | [06-docker](06-docker/) | Engine (intro→avanzado) + Desktop opcional en Linux | Contenedores |
+| [07-ejercicios](07-ejercicios/) | prácticas por bloque + carpeta soluciones | Práctica |
 
 ## Distros en los ejemplos
 
@@ -267,4 +272,5 @@ Guía ampliada: [09-scripts/sh-vs-bash-vs-ejecutable](04-automatizacion/09-scrip
 - Camino principal **01 → 11**: documentado.  
 - Bloque **[05-extras](05-extras/)**: completo (monitorización, servidores, seguridad, red avanzada).  
 - Bloque **[06-docker](06-docker/)**: Engine/CLI (intro → avanzado) + **07-desktop** (opcional, Linux).  
+- Bloque **[07-ejercicios](07-ejercicios/)**: prácticas por bloque + soluciones.  
 - Cierre / handoff agentes: [`fin-proyecto.md`](fin-proyecto.md).
